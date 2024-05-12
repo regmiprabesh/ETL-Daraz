@@ -220,3 +220,10 @@
 2024-05-12 23:39:50.683551: Data Transformation Completed.
 2024-05-12 23:39:50.688149: Data saved to CSV file
 2024-05-12 23:39:50.696017: Data loaded to Database as a table, Executing queries
+2024-05-12 23:42:47.539773: Initiating ETL process
+2024-05-12 23:42:47.539845: Data Extraction Started
+2024-05-12 23:42:48.801070: Data Extraction Completed
+2024-05-12 23:42:48.803257: Data Transformation Started.
+2024-05-12 23:42:48.820813: Data Transformation Completed.
+2024-05-12 23:42:48.825523: Data saved to CSV file
+2024-05-12 23:42:48.832791: Data loaded to Database as a table, Executing queries
