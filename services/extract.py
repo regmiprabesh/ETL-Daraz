@@ -4,6 +4,7 @@ import requests
 import json
 import pandas as pd
 
+#Extract Data
 def extract(url):
     log_progress('Data Extraction Started')
     """ This function aims to extract the previously scraped daraz liquor

@@ -1,650 +1,423 @@
-,product_name,product_price,product_rating,sold_quantity,category_name,scraped_date,Product Price(USD),Product Price(GBP),Product Price(EUR),Product Price(INR)
-0,Calvares Tawny Port 750 Ml,2210.0,0.0,0.0,Wines,28/04/2024,16.56,13.27,15.35,1381.25
-1,Khukri XXX Rum 375ml,1020.0,4.8,0.0,Spirits,28/04/2024,7.64,6.13,7.08,637.5
-2,Old Durbar Black Chimney 180,850.0,3.8,0.0,Spirits,28/04/2024,6.37,5.1,5.9,531.25
-3,Khukri Rum 180Ml,510.0,4.0,0.0,Spirits,28/04/2024,3.82,3.06,3.54,318.75
-4,Simirnoff Ten Time Filter Vodka 750Ml,2050.0,5.0,0.0,Spirits,28/04/2024,15.36,12.31,14.24,1281.25
-5,Minsk Apple 750Ml,1200.0,5.0,0.0,Spirits,28/04/2024,8.99,7.21,8.33,750.0
-6,Old Durbar Black Chimney Blended Reserve Whisky -750ml,3650.0,4.7,0.0,Spirits,28/04/2024,27.34,21.92,25.35,2281.25
-7,Bottega Pinot Grigo Venezia 750ml,2495.0,0.0,0.0,Wines,28/04/2024,18.69,14.98,17.33,1559.38
-8,San Soju 300Ml,220.0,5.0,0.0,Spirits,28/04/2024,1.65,1.32,1.53,137.5
-9,Blue Daimand 180 Ml,280.0,0.0,0.0,Spirits,28/04/2024,2.1,1.68,1.94,175.0
-10,Glanfeddich 1 Ltr 12 Yrs,8200.0,0.0,0.0,Spirits,28/04/2024,61.43,49.25,56.95,5125.0
-11,Signature Rare 750Ml,2100.0,0.0,0.0,Spirits,28/04/2024,15.73,12.61,14.58,1312.5
-12,Choya Umeshu Shiso Fruit Liqueur - 750Ml,5350.0,0.0,0.0,Spirits,28/04/2024,40.08,32.13,37.16,3343.75
-13,Limoncino Liquor Bottega 30% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,28/04/2024,33.71,27.03,31.25,2812.5
-14,Blue Daimand 375 Ml,560.0,0.0,0.0,Spirits,28/04/2024,4.2,3.36,3.89,350.0
-15,San Soju 300ml 7pcs,1190.0,0.0,0.0,Spirits,28/04/2024,8.92,7.15,8.26,743.75
-16,Jagermeister 200ML,1600.0,0.0,0.0,Spirits,28/04/2024,11.99,9.61,11.11,1000.0
-17,8848 Vodka 750,2105.0,0.0,0.0,Spirits,28/04/2024,15.77,12.64,14.62,1315.62
-18,Exe Vodka 180Ml,455.0,0.0,0.0,Spirits,28/04/2024,3.41,2.73,3.16,284.38
-19,Highlander Pure White Vodka 750,1140.0,0.0,0.0,Spirits,28/04/2024,8.54,6.85,7.92,712.5
-20,Golden Oak Premium Blended Malt 750ml,1150.0,0.0,0.0,Spirits,28/04/2024,8.62,6.91,7.99,718.75
-21,Blue Daimand 750 Ml,1120.0,0.0,0.0,Spirits,28/04/2024,8.39,6.73,7.78,700.0
-22,8848 Vodka 375,1075.0,0.0,0.0,Spirits,28/04/2024,8.05,6.46,7.47,671.88
-23,Bottega Bacur Gin (700ml),6950.0,0.0,0.0,Spirits,28/04/2024,52.07,41.74,48.27,4343.75
-24,8848 Vodka 180,535.0,0.0,0.0,Spirits,28/04/2024,4.01,3.21,3.72,334.38
-25,Red & Black Whiskey 375ML,650.0,0.0,0.0,Spirits,28/04/2024,4.87,3.9,4.51,406.25
-26,Bottega Limoncino Liquore 30% 500ml,4465.0,0.0,0.0,Spirits,28/04/2024,33.45,26.82,31.01,2790.62
-27,Blue Riband Gin 180ML(PACK OF 3),1320.0,0.0,0.0,Spirits,28/04/2024,9.89,7.93,9.17,825.0
-28,Peach Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,28/04/2024,33.71,27.03,31.25,2812.5
-29,Pinapple Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,28/04/2024,33.71,27.03,31.25,2812.5
-30,Vermouth Bianco/White Bottega 16% 75Cl - 750 ml,3600.0,0.0,0.0,Spirits,28/04/2024,26.97,21.62,25.0,2250.0
-31,Blue Diamond -375ML,600.0,0.0,0.0,Spirits,28/04/2024,4.5,3.6,4.17,375.0
-32,Melon Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,28/04/2024,33.71,27.03,31.25,2812.5
-33,Beefeater Gin 500Ml,3650.0,0.0,0.0,Spirits,28/04/2024,27.34,21.92,25.35,2281.25
-34,Nude Superior Vodka 180 Ml,500.0,0.0,0.0,Spirits,28/04/2024,3.75,3.0,3.47,312.5
-35,Bombay Sapphire London Dry Gin 1000 Ml,5400.0,0.0,0.0,Spirits,28/04/2024,40.46,32.43,37.5,3375.0
-36,Gordon'S Gin 1000Ml,7615.0,0.0,0.0,Spirits,28/04/2024,57.05,45.73,52.89,4759.38
-37,Sky Vodka Original 1000 Ml,6995.0,0.0,0.0,Spirits,28/04/2024,52.4,42.01,48.58,4371.88
-38,Baileys Original Liquor -1L,7300.0,0.0,0.0,Spirits,28/04/2024,54.69,43.84,50.7,4562.5
-39,Gordon's special London dry gin - 1 Ltr,6700.0,0.0,0.0,Spirits,28/04/2024,50.19,40.24,46.53,4187.5
-40,Khukri XXX Rum 375 ML,1020.0,0.0,0.0,Spirits,28/04/2024,7.64,6.13,7.08,637.5
-41,Dewars Special Reserve Whiskey 12 Years 1000ml,8550.0,0.0,0.0,Spirits,28/04/2024,64.05,51.35,59.38,5343.75
-42,Bottega Acino Chianti 750ml,2495.0,0.0,0.0,Wines,28/04/2024,18.69,14.98,17.33,1559.38
-43,Bottega Amarone Valpolicella 750ml,8495.0,0.0,0.0,Wines,28/04/2024,63.64,51.02,59.0,5309.38
-44,Bottega Chardonnay Igt Trevenezie - 750 ml,2300.0,0.0,0.0,Wines,28/04/2024,17.23,13.81,15.97,1437.5
-45,The Famous Grouse 1 Ltr,6800.0,0.0,0.0,Spirits,28/04/2024,50.94,40.84,47.23,4250.0
-46,Gold Leaf Hideyoshi Ougon Hyoutan Kinpanku 720Ml,11140.0,0.0,0.0,Spirits,05/05/2024,83.46,66.9,77.37,6962.5
-47,Johnnie Walker Double Black Whisky 1L,10000.0,0.0,0.0,Spirits,05/05/2024,74.92,60.06,69.45,6250.0
-48,Hinwa Sweet Red - 750 ml -By Cheers Online,810.0,4.3,4.0,Wines,12/05/2024,6.07,4.86,5.63,506.25
-49,Hinwa Sweet White - 750 ml -By Cheers Online,810.0,4.3,0.0,Wines,12/05/2024,6.07,4.86,5.63,506.25
-50,Premium German Silver Wine Set | Axia Krafts,1550.0,3.0,0.0,Wines,12/05/2024,11.61,9.31,10.76,968.75
-51,Dulzino Moscato Sweet White Wine  750ml,1700.0,0.0,0.0,Wines,12/05/2024,12.74,10.21,11.81,1062.5
-52,Jacob's Creek Classic Chardonnay 750ML,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-53,Lindemans Bin 45 Cabernet Sauvignon,2100.0,5.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-54,Lindeman's Bin 46 Sweet Red Wine - 750ML -By Cheers Online,1850.0,5.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-55,Palacio Del Campo Semi-Sweet Red Wine 750ml,1152.0,0.0,0.0,Wines,12/05/2024,8.63,6.92,8.0,720.0
-56,Lindeman's Bin 99 Pinot Noir Red Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-57,Jacob's Creek Classic Merlot 750ML,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-58,Divine White Wine 750 Ml,730.0,4.0,0.0,Wines,12/05/2024,5.47,4.38,5.07,456.25
-59,Big Master Mix Fruit White Wine -750ml,825.0,5.0,0.0,Wines,12/05/2024,6.18,4.95,5.73,515.62
-60,"Calvet Bordeaux Merlot Cabernet Sauvignon Red Wine, 750ml -By Cheers Online",2000.0,4.3,0.0,Wines,12/05/2024,14.98,12.01,13.89,1250.0
-61,Canvas Sweet White Wine 750Ml,895.0,5.0,0.0,Wines,12/05/2024,6.71,5.38,6.22,559.38
-62,Lindeman's Bin 85 Pinot Grigio White Wine - 750ML -By Cheers Online,2100.0,5.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-63,Hardys Nottage Hill Chardonnay - 750 ml -By Cheers Online,1875.0,5.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-64,Lindeman's Bin 45 Cabernet Sauvignon Red Wine - 750ML -By Cheers Online,2100.0,4.5,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-65,Robertson Winery Natural Sweet White -750ml,1550.0,5.0,0.0,Wines,12/05/2024,11.61,9.31,10.76,968.75
-66,Porto Valdouro Ruby Port Red Wine 750ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-67,Big Master Prefect Fruit Red Wine 750Ml,850.0,5.0,0.0,Wines,12/05/2024,6.37,5.1,5.9,531.25
-68,Canvas Box Sweet Red Wine 4L,3500.0,5.0,0.0,Wines,12/05/2024,26.22,21.02,24.31,2187.5
-69,Hakodate Niagara - Japanese Wine  720ml,2410.0,4.0,0.0,Wines,12/05/2024,18.06,14.47,16.74,1506.25
-70,Bottega Acino Chianti DOCG Red Wine 750ML -By Cheers Online,2300.0,4.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-71,Bottega Merlot IGT Trevenezie Red Wine 750ML -By Cheers Online,2300.0,5.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-72,Bottega Acino Chianti Classico DOCG Red Wine 750ML -By Cheers Online,4000.0,3.0,0.0,Wines,12/05/2024,29.97,24.02,27.78,2500.0
-73,Porto Valdouro Tawny Port Wine 750ml,2500.0,0.0,0.0,Wines,12/05/2024,18.73,15.01,17.36,1562.5
-74,Bottega Cabernet Sauvignon IGT Trevenezie Red Wine 750ML -By Cheers Online,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-75,Pocari Sweat Powder - 740 gm,3800.0,0.0,0.0,Wines,12/05/2024,28.47,22.82,26.39,2375.0
-76,Robertson Winery Sweet White 750ML,1450.0,0.0,0.0,Wines,12/05/2024,10.86,8.71,10.07,906.25
-77,Canvas White Wine 750Ml,895.0,0.0,0.0,Wines,12/05/2024,6.71,5.38,6.22,559.38
-78,Bottega Chardonnay IGT Trevenezie White Wine 750ML -By Cheers Online,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-79,Bottega Cabernet Sauvignon 750ml,2495.0,0.0,0.0,Wines,12/05/2024,18.69,14.98,17.33,1559.38
-80,Lindeman's Bin 95 Sauvignon Blanc White Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-81,Maison Castel Chardonnay Blanc 750 Ml,1950.0,0.0,0.0,Wines,12/05/2024,14.61,11.71,13.54,1218.75
-82,Divine Wine Red Sweet Wine 750Ml,775.0,0.0,0.0,Wines,12/05/2024,5.81,4.65,5.38,484.38
-83,Hardys Nottage Hill Shiraz 750ml,1695.0,0.0,0.0,Wines,12/05/2024,12.7,10.18,11.77,1059.38
-84,Akira Sweet White Wine 750 ML,825.0,0.0,0.0,Wines,12/05/2024,6.18,4.95,5.73,515.62
-85,El Chivo Sauvignon Blanc (750 ml),1700.0,0.0,0.0,Wines,12/05/2024,12.74,10.21,11.81,1062.5
-86,Jc Carbenet Sauvigon 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-87,Gorkha Strong Can Beer 500ml 12pcs,3255.0,5.0,0.0,Beer,12/05/2024,24.39,19.55,22.61,2034.38
-88,Arna 8 330Ml,175.0,0.0,0.0,Beer,12/05/2024,1.31,1.05,1.22,109.38
-89,Gorkha Strong Can Beer 500ml,265.0,0.0,0.0,Beer,12/05/2024,1.99,1.59,1.84,165.62
-90,Craft Beer Barahsinghe Pilsner Beer 650ml Set of 12,4785.0,0.0,0.0,Beer,12/05/2024,35.85,28.74,33.23,2990.62
-91,Barahsinghe Pilsner 650ML,399.0,0.0,0.0,Beer,12/05/2024,2.99,2.4,2.77,249.38
-92,Tuborg Gold Premium Beer 650,425.0,0.0,0.0,Beer,12/05/2024,3.18,2.55,2.95,265.62
-93,Carlsberg Danish Pilsner Can 500ML,365.0,0.0,0.0,Beer,12/05/2024,2.73,2.19,2.53,228.12
-94,Tuborg Gold Premium Beer Can Beer 500,335.0,0.0,0.0,Beer,12/05/2024,2.51,2.01,2.33,209.38
-95,Tuborg Can Beer 500ml 12pcs,4050.0,0.0,0.0,Beer,12/05/2024,30.34,24.32,28.13,2531.25
-96,Barahsinghe Pilsner Beer Yak Beer 650,395.0,0.0,0.0,Beer,12/05/2024,2.96,2.37,2.74,246.88
-97,Tuborg Premium Beer Gold 500Ml,475.0,0.0,0.0,Beer,12/05/2024,3.56,2.85,3.3,296.88
-98,Tuborg Gold Premium Beer 330,220.0,0.0,0.0,Beer,12/05/2024,1.65,1.32,1.53,137.5
-99,Nepal Ice Can Beer 500ml 12pcs,3255.0,0.0,0.0,Beer,12/05/2024,24.39,19.55,22.61,2034.38
-100,"Pasabahce Beer Mug, Pub,355 ml, Set of 2",875.0,0.0,0.0,Beer,12/05/2024,6.56,5.25,6.08,546.88
-101,Arna (8) Beer 330 Ml,170.0,0.0,0.0,Beer,12/05/2024,1.27,1.02,1.18,106.25
-102,Corona Extra Bottle 330Ml,425.0,0.0,0.0,Beer,12/05/2024,3.18,2.55,2.95,265.62
-103,Tuborg Gold Premium Can Beer 500ml,325.0,0.0,0.0,Beer,12/05/2024,2.43,1.95,2.26,203.12
-104,Carlsberg Danish Pilsner Can Beer 500ml,310.0,0.0,0.0,Beer,12/05/2024,2.32,1.86,2.15,193.75
-105,Arna 8 650Ml,330.0,0.0,0.0,Beer,12/05/2024,2.47,1.98,2.29,206.25
-106,Tuborg Gold Premium Can Beer 500 ML,320.0,0.0,0.0,Beer,12/05/2024,2.4,1.92,2.22,200.0
-107,Tuborg Gold Premium Beer 650 ML,425.0,0.0,0.0,Beer,12/05/2024,3.18,2.55,2.95,265.62
-108,"Pasabahce Craft Beer  455ml, Set of 4",1185.0,0.0,0.0,Beer,12/05/2024,8.88,7.12,8.23,740.62
-109,Barahsinghe Pilsner Beer Yak Can Beer 500,310.0,0.0,0.0,Beer,12/05/2024,2.32,1.86,2.15,193.75
-110,Gorkha Strong Can Beer 500 ML,290.0,0.0,0.0,Beer,12/05/2024,2.17,1.74,2.01,181.25
-111,Arna Wild Himalayan Beer 650 ML,330.0,0.0,0.0,Beer,12/05/2024,2.47,1.98,2.29,206.25
-112,Tuborg Beer 330 Ml,215.0,0.0,0.0,Beer,12/05/2024,1.61,1.29,1.49,134.38
-113,Gorkha Strong Beer 650 Ml,350.0,0.0,0.0,Beer,12/05/2024,2.62,2.1,2.43,218.75
-114,Arna Wild Himalayan Beer 330 ML,175.0,0.0,0.0,Beer,12/05/2024,1.31,1.05,1.22,109.38
-115,Gorkha Strong Beer 650 ML,330.0,0.0,0.0,Beer,12/05/2024,2.47,1.98,2.29,206.25
-116,Tuborg Beer 650 Ml,425.0,0.0,0.0,Beer,12/05/2024,3.18,2.55,2.95,265.62
-117,Tuborg Can Beer 500 Ml,325.0,0.0,0.0,Beer,12/05/2024,2.43,1.95,2.26,203.12
-118,Tuborg Gold Premium Beer 650ml,425.0,0.0,0.0,Beer,12/05/2024,3.18,2.55,2.95,265.62
-119,Carlsberg Danish Pilsner Can Beer 500ml Set of 12,4380.0,0.0,0.0,Beer,12/05/2024,32.81,26.3,30.42,2737.5
-120,Barahsinghe Pale Ale Yak Craft Beer 650Ml,435.0,0.0,0.0,Beer,12/05/2024,3.26,2.61,3.02,271.88
-121,Gorkha Extra Strong 330 Ml,175.0,0.0,0.0,Beer,12/05/2024,1.31,1.05,1.22,109.38
-122,Carslberg Can Beer 500 Ml,350.0,0.0,0.0,Beer,12/05/2024,2.62,2.1,2.43,218.75
-123,Budweiser 650ml,400.0,0.0,0.0,Beer,12/05/2024,3.0,2.4,2.78,250.0
-124,Carslberg Beer 650 Ml,450.0,0.0,0.0,Beer,12/05/2024,3.37,2.7,3.13,281.25
-125,San Soju - 300ML -By Cheers Online,170.0,4.6,2.0,Spirits,12/05/2024,1.27,1.02,1.18,106.25
-126,Dragon Strong Beer 650 ML,290.0,0.0,0.0,Beer,12/05/2024,2.17,1.74,2.01,181.25
-127,Old Marphali Apple Brandy 750ml,1300.0,4.5,0.0,Spirits,12/05/2024,9.74,7.81,9.03,812.5
-128,Gorkha Extra Strong Beer 330 ML,175.0,0.0,0.0,Beer,12/05/2024,1.31,1.05,1.22,109.38
-129,Khukri Coronation Domestic Rum - 375ML -By Cheers Online,2700.0,4.9,5.0,Spirits,12/05/2024,20.23,16.22,18.75,1687.5
-130,Glenfiddich Whiskey 12yrs 1L,11500.0,0.0,0.0,Spirits,12/05/2024,86.16,69.06,79.87,7187.5
-131,Old Marphali Apple Brandy 180ml,335.0,5.0,0.0,Spirits,12/05/2024,2.51,2.01,2.33,209.38
-132,Seagram's Royal Stag Whisky - 750ML -By Cheers Online,2000.0,5.0,0.0,Spirits,12/05/2024,14.98,12.01,13.89,1250.0
-133,Old Durbar Reserve Whisky - 750ml -By Cheers Online,2775.0,4.9,9.0,Spirits,12/05/2024,20.79,16.67,19.27,1734.38
-134,Marpha Mustang Apple Brandy - 750ML -By Cheers Online,1050.0,4.2,1.0,Spirits,12/05/2024,7.87,6.31,7.29,656.25
-135,8848 Vodka 750ml Made in Himalayan -2 Bottles,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-136,Black Label Blended Scotch Whisky 375ml,3600.0,0.0,0.0,Spirits,12/05/2024,26.97,21.62,25.0,2250.0
-137,Highlander Vodka 750 Ml,1080.0,0.0,0.0,Spirits,12/05/2024,8.09,6.49,7.5,675.0
-138,Old Durbar Reserve Whisky - 1L -By Cheers Online,3515.0,4.6,5.0,Spirits,12/05/2024,26.33,21.11,24.41,2196.88
-139,Limpa Apricot Brandy 750ml By World Marpha Wine Udhyog Pvt.Ltd,1175.0,0.0,0.0,Spirits,12/05/2024,8.8,7.06,8.16,734.38
-140,Old Durbar Black Chimney Whisky - 1L -By Cheers Online,4635.0,5.0,3.0,Spirits,12/05/2024,34.72,27.84,32.19,2896.88
-141,Signature Premier Grain Whisky - 1L -By Cheers Online,3470.0,4.0,0.0,Spirits,12/05/2024,26.0,20.84,24.1,2168.75
-142,Old Durbar Reserve -1L,3515.0,5.0,0.0,Spirits,12/05/2024,26.33,21.11,24.41,2196.88
-143,Khukuri XXX Domestic Rum - 750ML -By Cheers Online,2050.0,4.6,4.0,Spirits,12/05/2024,15.36,12.31,14.24,1281.25
-144,"8848 Vodka, 750ml -By Cheers Online",2145.0,5.0,6.0,Spirits,12/05/2024,16.07,12.88,14.9,1340.62
-145,Chivas Regal 12yrs  Whisky -1L,9000.0,5.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-146,Limpa Mitho 750ML 30UP Marpha Apple Brandy,950.0,5.0,0.0,Spirits,12/05/2024,7.12,5.71,6.6,593.75
-147,Yarchagumba Beverage Golden Sapphire 750ML -By Cheers Online,11000.0,4.3,3.0,Spirits,12/05/2024,82.41,66.06,76.39,6875.0
-148,Mustang Gold Whisky - 750ML -By Cheers Online,1200.0,5.0,0.0,Spirits,12/05/2024,8.99,7.21,8.33,750.0
-149,Jack Daniel's Fire Tennessee Whisky - 750 ml -By Cheers Online,6245.0,5.0,0.0,Spirits,12/05/2024,46.79,37.51,43.37,3903.12
-150,Johnnie Walker Black Label Premium Whisky - 750ML -By Cheers Online,6900.0,5.0,4.0,Spirits,12/05/2024,51.69,41.44,47.92,4312.5
-151,Soju Good Day Original 360 ml,1300.0,5.0,0.0,Spirits,12/05/2024,9.74,7.81,9.03,812.5
-152,Himalayan Brandy - 750ML -By Cheers Online,1950.0,4.3,0.0,Spirits,12/05/2024,14.61,11.71,13.54,1218.75
-153,Johnnie Walker Double Black Whisky 750Ml,8200.0,0.0,0.0,Spirits,12/05/2024,61.43,49.25,56.95,5125.0
-154,8848 Rye Vodka x Tsherin Sherpa - 750ML -By Cheers Online,2400.0,5.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-155,Old Monk XXX Rum - 750ml -By Cheers Online,1950.0,5.0,3.0,Spirits,12/05/2024,14.61,11.71,13.54,1218.75
-156,Yeti Vodka - 750ML -By Cheers Online,2260.0,4.7,0.0,Spirits,12/05/2024,16.93,13.57,15.7,1412.5
-157,Gurkhas and Guns Finest Blended Whisky - 750ML -By Cheers Online,3080.0,5.0,5.0,Spirits,12/05/2024,23.07,18.5,21.39,1925.0
-158,The Glenlivet Founder's Reserve Whisky - 1L -By Cheers Online,9800.0,0.0,0.0,Spirits,12/05/2024,73.42,58.86,68.06,6125.0
-159,Old Durbar Black Chimney Whisky - 750 ml -By Cheers Online,3650.0,4.8,3.0,Spirits,12/05/2024,27.34,21.92,25.35,2281.25
-160,Bandipur Blended Malt Scotch Whisky - 750ML -By Cheers Online,4950.0,5.0,0.0,Spirits,12/05/2024,37.08,29.73,34.38,3093.75
-161,Khukuri White Domestic Rum - 750ML -By Cheers Online,2400.0,1.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-162,"Captain Morgan Spiced Gold Rum, 1L -By Cheers Online",6700.0,5.0,0.0,Spirits,12/05/2024,50.19,40.24,46.53,4187.5
-163,Malibu Coconut Rum - 1L -By Cheers Online,7150.0,5.0,0.0,Spirits,12/05/2024,53.57,42.94,49.66,4468.75
-164,Khukuri Spice Domestic Rum -750Ml,2350.0,5.0,0.0,Spirits,12/05/2024,17.61,14.11,16.32,1468.75
-165,The Himalayan Reserve Whisky - 750ML -By Cheers Online,3400.0,5.0,0.0,Spirits,12/05/2024,25.47,20.42,23.61,2125.0
-166,Jack Daniel's Tennessee Whisky - 1 ltr -By Cheers Online,8160.0,4.3,0.0,Spirits,12/05/2024,61.13,49.01,56.67,5100.0
-167,Arna 8 Beer 330Ml,175.0,5.0,4.0,Beer,12/05/2024,1.31,1.05,1.22,109.38
-168,Arna 8 Wild Himalayan Beer 650Ml,330.0,0.0,0.0,Beer,12/05/2024,2.47,1.98,2.29,206.25
-169,Arna (8) 500 Ml Can Beer,260.0,0.0,0.0,Beer,12/05/2024,1.95,1.56,1.81,162.5
-170,Budwiser Magnum 650 Ml,350.0,0.0,0.0,Beer,12/05/2024,2.62,2.1,2.43,218.75
-171,Yeti Premium Lager Beer 330 ML,180.0,0.0,0.0,Beer,12/05/2024,1.35,1.08,1.25,112.5
-172,Craft Beer Barahsinghe Pilsner Beer 650ml,399.0,0.0,0.0,Beer,12/05/2024,2.99,2.4,2.77,249.38
-173,Good Quality Budwiser Magnum 330 Ml,180.0,0.0,0.0,Beer,12/05/2024,1.35,1.08,1.25,112.5
-174,Budweiser Beer 650 Ml,390.0,0.0,0.0,Beer,12/05/2024,2.92,2.34,2.71,243.75
-175,Barahsinghe Super Strong Beer 650 ML,290.0,0.0,0.0,Beer,12/05/2024,2.17,1.74,2.01,181.25
-176,Budweiser Beer 330 Ml,195.0,0.0,0.0,Beer,12/05/2024,1.46,1.17,1.35,121.88
-177,Barshinge Strong Beer 650 Ml,2452.0,0.0,0.0,Beer,12/05/2024,18.37,14.73,17.03,1532.5
-178,Arna Premium Lager Beer 650 ML,400.0,0.0,0.0,Beer,12/05/2024,3.0,2.4,2.78,250.0
-179,Budweiser Magnum Premium Beer 650 ML,360.0,0.0,0.0,Beer,12/05/2024,2.7,2.16,2.5,225.0
-180,Budweiser Magnum Premium Beer 330 ML,190.0,0.0,0.0,Beer,12/05/2024,1.42,1.14,1.32,118.75
-181,Firemoon Beer 330 Ml,3356.0,0.0,0.0,Beer,12/05/2024,25.14,20.15,23.31,2097.5
-182,Johnnie Walker Red Label Premium Whisky - 1L -By Cheers Online,6990.0,4.7,0.0,Spirits,12/05/2024,52.37,41.98,48.55,4368.75
-183,Absolut Vodka -1ltr,6550.0,5.0,0.0,Spirits,12/05/2024,49.07,39.34,45.49,4093.75
-184,Finlandia Regular - 750 ml -By Cheers Online,4650.0,5.0,0.0,Spirits,12/05/2024,34.84,27.93,32.29,2906.25
-185,Old Durbar 12yrs Blended Scotch Artwork by Lok Chitrakar - 750ML -By Cheers Online,5000.0,5.0,0.0,Spirits,12/05/2024,37.46,30.03,34.72,3125.0
-186,"Baileys Original, 1ltr -By Cheers Online",7300.0,4.0,0.0,Spirits,12/05/2024,54.69,43.84,50.7,4562.5
-187,Signature Rare Aged Whisky 1L,3055.0,5.0,0.0,Spirits,12/05/2024,22.89,18.35,21.22,1909.38
-188,Old Durbar Reserve Whisky 750Ml,2600.0,5.0,0.0,Spirits,12/05/2024,19.48,15.61,18.06,1625.0
-189,Jim Beam Kentucky Straight Bourbon Whiskey 1ltr,8500.0,0.0,0.0,Spirits,12/05/2024,63.68,51.05,59.03,5312.5
-190,Gurkha And Guns Finest Blended Whisky 750Ml,2950.0,5.0,0.0,Spirits,12/05/2024,22.1,17.72,20.49,1843.75
-191,Nepse Bull Rare Malt Whiskey 750ml,4850.0,5.0,0.0,Spirits,12/05/2024,36.34,29.13,33.68,3031.25
-192,Kala Patthar Whiskey 750ml,2700.0,5.0,0.0,Spirits,12/05/2024,20.23,16.22,18.75,1687.5
-193,Emperor Half  Whisky 375Ml,580.0,1.0,0.0,Spirits,12/05/2024,4.35,3.48,4.03,362.5
-194,Password  Whisky Full 750Ml,1365.0,3.0,0.0,Spirits,12/05/2024,10.23,8.2,9.48,853.12
-195,Johnnie Walker Gold Label  Whisky -750ML,10500.0,5.0,0.0,Spirits,12/05/2024,78.66,63.06,72.92,6562.5
-196,Glenfiddich Whiskey 12yrs -1L,12740.0,5.0,0.0,Spirits,12/05/2024,95.45,76.51,88.48,7962.5
-197,Teachers Highland Cream Whiskey 1ltr,7000.0,0.0,0.0,Spirits,12/05/2024,52.44,42.04,48.61,4375.0
-198,Johnnie Walker Double Black  Whisky -1L,10500.0,5.0,0.0,Spirits,12/05/2024,78.66,63.06,72.92,6562.5
-199,"Chivas Regal 12yrs Whisky, 1L -By Cheers Online",9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-200,Ginger Liqueur Bottega 25% Cl 50 - 500 ml,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-201,Snowman Gin - 750ML -By Cheers Online,2400.0,0.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-202,Vat 69 Blended Scotch whiskey 1ltr,6200.0,0.0,0.0,Spirits,12/05/2024,46.45,37.24,43.06,3875.0
-203,Yokaichi Mugi  200Ml  Japanese Shochu,1520.0,0.0,0.0,Spirits,12/05/2024,11.39,9.13,10.56,950.0
-204,Martini Extra Dry Liqueur - 1L -By Cheers Online,3250.0,0.0,0.0,Spirits,12/05/2024,24.35,19.52,22.57,2031.25
-205,Khukuri Rum 750Ml,2050.0,0.0,0.0,Spirits,12/05/2024,15.36,12.31,14.24,1281.25
-206,Courvoisier VSOP Fine Cognac - 500 ml -By Cheers Online,6520.0,0.0,0.0,Spirits,12/05/2024,48.85,39.16,45.28,4075.0
-207,Maker's Mark Bourbon Whisky - 1L -By Cheers Online,10300.0,0.0,0.0,Spirits,12/05/2024,77.17,61.86,71.53,6437.5
-208,Gordon's London Dry Gin - 375 ml -By Cheers Online,2800.0,0.0,0.0,Spirits,12/05/2024,20.98,16.82,19.45,1750.0
-209,Tequila Sierra coffee 600ml,5000.0,0.0,0.0,Spirits,12/05/2024,37.46,30.03,34.72,3125.0
-210,Yarchagumba Beverage Golden Sapphire 750ML,11000.0,0.0,0.0,Spirits,12/05/2024,82.41,66.06,76.39,6875.0
-211,Campari Bitter Liqueur - 1ltr -By Cheers Online,8825.0,0.0,0.0,Spirits,12/05/2024,66.11,53.0,61.29,5515.62
-212,The Glenlivet Single Malt Scotch Whiskey750ml,8200.0,0.0,0.0,Spirits,12/05/2024,61.43,49.25,56.95,5125.0
-213,Jagermeister 1000ML,7850.0,0.0,0.0,Spirits,12/05/2024,58.81,47.14,54.52,4906.25
-214,Gordon's London Dry Gin - 1 ltr -By Cheers Online,6700.0,0.0,0.0,Spirits,12/05/2024,50.19,40.24,46.53,4187.5
-215,Latte Macchiato Liquore Bottega 15%Cl50 - 500 ml,4800.0,0.0,0.0,Spirits,12/05/2024,35.96,28.83,33.34,3000.0
-216,Pimm's Original Liquor - 1L -By Cheers Online,7500.0,0.0,0.0,Spirits,12/05/2024,56.19,45.04,52.09,4687.5
-217,Bottega Bacur Distilled Dry Gin 700ML -By Cheers Online,6950.0,0.0,0.0,Spirits,12/05/2024,52.07,41.74,48.27,4343.75
-218,Khukuri Rum 750ml,2040.0,0.0,0.0,Spirits,12/05/2024,15.28,12.25,14.17,1275.0
-219,Olmega Tequla Silver 750 Ml,5600.0,0.0,0.0,Spirits,12/05/2024,41.95,33.63,38.89,3500.0
-220,Yokaichi Imo 200Ml Japanese Shochu,1520.0,0.0,0.0,Spirits,12/05/2024,11.39,9.13,10.56,950.0
-221,Martell VSOP Brandy - 1L -By Cheers Online,15200.0,0.0,0.0,Spirits,12/05/2024,113.87,91.29,105.56,9500.0
-222,The Famous Grouse Blended Scotch Whiskey1L,7500.0,0.0,0.0,Spirits,12/05/2024,56.19,45.04,52.09,4687.5
-223,Dewazakura  180Ml,1210.0,0.0,0.0,Spirits,12/05/2024,9.07,7.27,8.4,756.25
-224,Le Favori Triple Sec Liqueur - 700ML -By Cheers Online,5500.0,0.0,0.0,Spirits,12/05/2024,41.2,33.03,38.2,3437.5
-225,Gilbey's 1857 Special Dry Gin - 1 ltr -By Cheers Online,6500.0,0.0,0.0,Spirits,12/05/2024,48.7,39.04,45.14,4062.5
-226,"Pomogranete Liquore Bottega 20%
-Cl50 - 500 ml",4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-227,Red Label Blended Scotch Whisky 750ml,5350.0,0.0,0.0,Spirits,12/05/2024,40.08,32.13,37.16,3343.75
-228,Hana Awaka Sparkling Wine -Japanese Sparkling Wine 250Ml,1210.0,0.0,0.0,Spirits,12/05/2024,9.07,7.27,8.4,756.25
-229,Antiquity Blue 750ml,3050.0,0.0,0.0,Spirits,12/05/2024,22.85,18.32,21.18,1906.25
-230,Rasberry Liquore 15% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-231,Courvoisier Napoleon Cognac - 750 ml -By Cheers Online,9760.0,0.0,0.0,Spirits,12/05/2024,73.12,58.62,67.78,6100.0
-232,Penfold Raswon's Merlot(750ml),2500.0,0.0,0.0,Spirits,12/05/2024,18.73,15.01,17.36,1562.5
-233,"Bulldog Gin, 750ml -By Cheers Online",6420.0,0.0,0.0,Spirits,12/05/2024,48.1,38.56,44.59,4012.5
-234,Monkey 47 Schwarzwald Dry Gin 500ml,9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-235,Bandipur -750ml,5000.0,0.0,0.0,Spirits,12/05/2024,37.46,30.03,34.72,3125.0
-236,8848 Vodka 750 ML,2100.0,0.0,0.0,Spirits,12/05/2024,15.73,12.61,14.58,1312.5
-237,8848 Ray Vodka 750 Ml,2295.0,0.0,0.0,Spirits,12/05/2024,17.19,13.78,15.94,1434.38
-238,Gordon's -1Ltr Imported Gin,6700.0,0.0,0.0,Spirits,12/05/2024,50.19,40.24,46.53,4187.5
-239,Glenmorangie Lasanta Single Malt Scotch Whisky - 750 ml -By Cheers Online,11700.0,0.0,0.0,Spirits,12/05/2024,87.65,70.27,81.26,7312.5
-240,Old Durbar Black Chimney - 750 ml,3650.0,0.0,0.0,Spirits,12/05/2024,27.34,21.92,25.35,2281.25
-241,Jagermeister 500ML,4100.0,0.0,0.0,Spirits,12/05/2024,30.72,24.62,28.47,2562.5
-242,Talisker 10 Years Whisky - 750ML -By Cheers Online,10500.0,0.0,0.0,Spirits,12/05/2024,78.66,63.06,72.92,6562.5
-243,Liquiriza Liquore Bottega 25% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-244,Yokaichi ( Imo) 720Ml  Japanese Shochu,5320.0,0.0,0.0,Spirits,12/05/2024,39.86,31.95,36.95,3325.0
-245,Old Durbar Two Continents 375ml,1350.0,0.0,0.0,Spirits,12/05/2024,10.11,8.11,9.38,843.75
-246,Cointreau Orange Liqueur 1L,14680.0,0.0,0.0,Spirits,12/05/2024,109.98,88.16,101.95,9175.0
-247,Elixir Amaro Erbe Alpine Bottega Bio 21% Cl50 - 500 ml,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-248,Himalayan Honey Hunter 15yrs Rum - 750ML -By Cheers Online,5125.0,0.0,0.0,Spirits,12/05/2024,38.4,30.78,35.59,3203.12
-249,Khukri XXX Rum 180 ML,510.0,0.0,0.0,Spirits,12/05/2024,3.82,3.06,3.54,318.75
-250,Jagermeister - 750ML German Liqueur,5875.0,0.0,0.0,Spirits,12/05/2024,44.01,35.28,40.8,3671.88
-251,Old Monk XXX Rum 375ML,975.0,0.0,0.0,Spirits,12/05/2024,7.3,5.86,6.77,609.38
-252,Old Durbar Two Continents 180ml,675.0,0.0,0.0,Spirits,12/05/2024,5.06,4.05,4.69,421.88
-253,Vaccari Sambuca 700ML,8735.0,0.0,0.0,Spirits,12/05/2024,65.44,52.46,60.66,5459.38
-254,Gianduia Liquore Bottega 17% Cl50 - 500 ml,4800.0,0.0,0.0,Spirits,12/05/2024,35.96,28.83,33.34,3000.0
-255,Yokaichi (Imo) 1800Ml  Japanese Shochu,12410.0,0.0,0.0,Spirits,12/05/2024,92.97,74.53,86.19,7756.25
-256,Bitter Accademia - 750 ml,8500.0,0.0,0.0,Spirits,12/05/2024,63.68,51.05,59.03,5312.5
-257,Agavita Gold - 700ML Tequila,5200.0,0.0,0.0,Spirits,12/05/2024,38.96,31.23,36.11,3250.0
-258,Fior Di Latte Liquore Bottega 15%Cl50 - 500 ml,5900.0,0.0,0.0,Spirits,12/05/2024,44.2,35.43,40.98,3687.5
-259,Olmeca Silver 750ML,5795.0,5.0,0.0,Spirits,12/05/2024,43.41,34.8,40.25,3621.88
-260,"Cardhu Malt 12yrs Whisky, 1L -By Cheers Online",11000.0,0.0,0.0,Spirits,12/05/2024,82.41,66.06,76.39,6875.0
-261,Mustang Gold 375 Ml,580.0,0.0,0.0,Spirits,12/05/2024,4.35,3.48,4.03,362.5
-262,Passport Old Reserve Blend Select Barrels 750,1140.0,0.0,0.0,Spirits,12/05/2024,8.54,6.85,7.92,712.5
-263,Khukuri Spice Domestic Rum - 750ML -By Cheers Online,2400.0,0.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-264,Baileys Irish Cream 1L,7875.0,0.0,0.0,Spirits,12/05/2024,59.0,47.29,54.69,4921.88
-265,Mustang Gold 750,1200.0,0.0,0.0,Spirits,12/05/2024,8.99,7.21,8.33,750.0
-266,Signature Premier Grain Whisky 750,3050.0,0.0,0.0,Spirits,12/05/2024,22.85,18.32,21.18,1906.25
-267,Beefeater London Dry Gin 750ML,5305.0,0.0,0.0,Spirits,12/05/2024,39.74,31.86,36.84,3315.62
-268,Glen Grant 10yrs 750ML,8110.0,0.0,0.0,Spirits,12/05/2024,60.76,48.71,56.32,5068.75
-269,Singleton Whiskey 12yrs -700ML,7500.0,0.0,0.0,Spirits,12/05/2024,56.19,45.04,52.09,4687.5
-270,Khukuri Xxx Rum 750 Ml,1980.0,0.0,0.0,Spirits,12/05/2024,14.83,11.89,13.75,1237.5
-271,The Glenlivet 12 Years Whisky - 1L -By Cheers Online,10750.0,0.0,0.0,Spirits,12/05/2024,80.54,64.56,74.66,6718.75
-272,Jagermeister - 1000ML German Liqueur,7800.0,0.0,0.0,Spirits,12/05/2024,58.44,46.84,54.17,4875.0
-273,8848 Vodka 750 Ml,2095.0,0.0,0.0,Spirits,12/05/2024,15.7,12.58,14.55,1309.38
-274,Signature Premier Grain Whisky 375,1360.0,0.0,0.0,Spirits,12/05/2024,10.19,8.17,9.45,850.0
-275,Snowman Gin 750ML,2400.0,4.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-276,Old Monk XXX Rum 750ML,1950.0,0.0,0.0,Spirits,12/05/2024,14.61,11.71,13.54,1218.75
-277,Gill Marry Whisky 375Ml,560.0,0.0,0.0,Spirits,12/05/2024,4.2,3.36,3.89,350.0
-278,Golden Oak 750ML,1160.0,0.0,0.0,Spirits,12/05/2024,8.69,6.97,8.06,725.0
-279,Archers Peach Schnapps 1L,7000.0,0.0,0.0,Spirits,12/05/2024,52.44,42.04,48.61,4375.0
-280,Yeti Vodka 375 ML,1140.0,0.0,0.0,Spirits,12/05/2024,8.54,6.85,7.92,712.5
-281,The Himalayan Reserve Whisky 180 Ml,860.0,0.0,0.0,Spirits,12/05/2024,6.44,5.16,5.97,537.5
-282,Yokaichi (Mugi) 1800Ml,12410.0,0.0,0.0,Spirits,12/05/2024,92.97,74.53,86.19,7756.25
-283,Nomo Nomo-Sake 2 Litre,5315.0,0.0,0.0,Spirits,12/05/2024,39.82,31.92,36.91,3321.88
-284,Old Durbar Black Chimney 375,1760.0,0.0,0.0,Spirits,12/05/2024,13.19,10.57,12.22,1100.0
-285,"Caol Ila 12yrs Single Malt Whisky, 750ML -By Cheers Online",10200.0,0.0,0.0,Spirits,12/05/2024,76.42,61.26,70.84,6375.0
-286,Talisker Storm Whisky - 700ML -By Cheers Online,10200.0,0.0,0.0,Spirits,12/05/2024,76.42,61.26,70.84,6375.0
-287,Gill Marry Whisky 750Ml,1115.0,0.0,0.0,Spirits,12/05/2024,8.35,6.7,7.74,696.88
-288,Le Favori Triple Sec 700ML,5490.0,0.0,0.0,Spirits,12/05/2024,41.13,32.97,38.13,3431.25
-289,Baron Select Extra Premium Whisky 750Ml,1240.0,0.0,0.0,Spirits,12/05/2024,9.29,7.45,8.61,775.0
-290,Golden Oak 750 Ml,1160.0,0.0,0.0,Spirits,12/05/2024,8.69,6.97,8.06,725.0
-291,Exe Vodka 750Ml,1945.0,0.0,0.0,Spirits,12/05/2024,14.57,11.68,13.51,1215.62
-292,Nepal Finest Khukuri Rum 750Ml,2000.0,0.0,0.0,Spirits,12/05/2024,14.98,12.01,13.89,1250.0
-293,Golden Oak 180 Ml,290.0,0.0,0.0,Spirits,12/05/2024,2.17,1.74,2.01,181.25
-294,Signature Rare Aged Whisky 750ml,2790.0,0.0,0.0,Spirits,12/05/2024,20.9,16.76,19.38,1743.75
-295,Blue Fin 750Ml,1200.0,0.0,0.0,Spirits,12/05/2024,8.99,7.21,8.33,750.0
-296,8848 Vodka -375ML,1075.0,0.0,0.0,Spirits,12/05/2024,8.05,6.46,7.47,671.88
-297,"Camino Real Gold Tequila, 750ml -By Cheers Online",6500.0,0.0,0.0,Spirits,12/05/2024,48.7,39.04,45.14,4062.5
-298,Jameson Irish Permium whiskey1L,7400.0,0.0,0.0,Spirits,12/05/2024,55.44,44.44,51.39,4625.0
-299,Grand Master Rum(750 ml),1800.0,0.0,0.0,Spirits,12/05/2024,13.49,10.81,12.5,1125.0
-300,Khukuri Xxx Rum 375 Ml,990.0,0.0,0.0,Spirits,12/05/2024,7.42,5.95,6.88,618.75
-301,Old Durbar Scotch Black Chimney Whisky 750Ml,3350.0,0.0,0.0,Spirits,12/05/2024,25.1,20.12,23.27,2093.75
-302,Golden Oak Premium Blended Malt 750 ML,1160.0,0.0,0.0,Spirits,12/05/2024,8.69,6.97,8.06,725.0
-303,Blue Riband Gin 375ML,880.0,0.0,0.0,Spirits,12/05/2024,6.59,5.28,6.11,550.0
-304,VAT 69 Whiskey -375ML,2425.0,0.0,0.0,Spirits,12/05/2024,18.17,14.56,16.84,1515.62
-305,Good Quality Yorkshire Lebal 180 Ml,300.0,0.0,0.0,Spirits,12/05/2024,2.25,1.8,2.08,187.5
-306,Old Monk XXX Rum -750ML,1975.0,0.0,0.0,Spirits,12/05/2024,14.8,11.86,13.72,1234.38
-307,Johnnie Walker Red Label Premium Whisky 750Ml,5250.0,0.0,0.0,Spirits,12/05/2024,39.33,31.53,36.46,3281.25
-308,Kalapatthar Blended Reserve Whisky 750Ml,2600.0,0.0,0.0,Spirits,12/05/2024,19.48,15.61,18.06,1625.0
-309,Smirnoff Vodka 375ML (Bottled in Nepal),1100.0,0.0,0.0,Spirits,12/05/2024,8.24,6.61,7.64,687.5
-310,Minsk Luxury 750Ml,1200.0,0.0,0.0,Spirits,12/05/2024,8.99,7.21,8.33,750.0
-311,Grand Master XXX Rum 375 ML,850.0,0.0,0.0,Spirits,12/05/2024,6.37,5.1,5.9,531.25
-312,Signature Premier Grain Whisky - 750 ml -By Cheers Online,2775.0,0.0,0.0,Spirits,12/05/2024,20.79,16.67,19.27,1734.38
-313,8848 Vodka 375 ML,1065.0,0.0,0.0,Spirits,12/05/2024,7.98,6.4,7.4,665.62
-314,"Captain Morgan Black Rum, 1L -By Cheers Online",6600.0,0.0,0.0,Spirits,12/05/2024,49.45,39.64,45.84,4125.0
-315,Glenmorangie Nectar D'Or Single Malt Scotch Whisky - 750 ml -By Cheers Online,15300.0,0.0,0.0,Spirits,12/05/2024,114.62,91.89,106.26,9562.5
-316,Captain Morgan Black Imported Rum 1L,6600.0,0.0,0.0,Spirits,12/05/2024,49.45,39.64,45.84,4125.0
-317,Nude Superior Vodka - 750ML -By Cheers Online,2170.0,0.0,0.0,Spirits,12/05/2024,16.26,13.03,15.07,1356.25
-318,Khukuri Xxx Rum 180 Ml,495.0,0.0,0.0,Spirits,12/05/2024,3.71,2.97,3.44,309.38
-319,"Camino Real Silver Tequila, 750ml -By Cheers Online",6500.0,0.0,0.0,Spirits,12/05/2024,48.7,39.04,45.14,4062.5
-320,Jamson Irish 750 Ml,5500.0,0.0,0.0,Spirits,12/05/2024,41.2,33.03,38.2,3437.5
-321,Black Oak 750 Ml,1320.0,0.0,0.0,Spirits,12/05/2024,9.89,7.93,9.17,825.0
-322,Highlander Pure White Vodka 750 ML,1150.0,0.0,0.0,Spirits,12/05/2024,8.62,6.91,7.99,718.75
-323,Signature Premier Grain Whisky 180,675.0,0.0,0.0,Spirits,12/05/2024,5.06,4.05,4.69,421.88
-324,Yorkshire Lebal 750 Ml,1040.0,0.0,0.0,Spirits,12/05/2024,7.79,6.25,7.22,650.0
-325,Blue Fin 180Ml,300.0,0.0,0.0,Spirits,12/05/2024,2.25,1.8,2.08,187.5
-326,Seto Bagh Vodka 180 ML,520.0,0.0,0.0,Spirits,12/05/2024,3.9,3.12,3.61,325.0
-327,Khukri XXX Rum 180ml(PACK OF 3),1540.0,0.0,0.0,Spirits,12/05/2024,11.54,9.25,10.7,962.5
-328,Nude Superior Vodka 750Ml,2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-329,Bacardi Black Original Premium Crafted Rum 750 ml,2625.0,0.0,0.0,Spirits,12/05/2024,19.67,15.76,18.23,1640.62
-330,Finlandia Grapefruit - 750 ml -By Cheers Online,4650.0,0.0,0.0,Spirits,12/05/2024,34.84,27.93,32.29,2906.25
-331,Yeti Vodka 375ML,1120.0,0.0,0.0,Spirits,12/05/2024,8.39,6.73,7.78,700.0
-332,Tanqueray London Dry Gin 1L,8000.0,0.0,0.0,Spirits,12/05/2024,59.93,48.05,55.56,5000.0
-333,Golden Oak Premium Blended Malt 375 ML,580.0,0.0,0.0,Spirits,12/05/2024,4.35,3.48,4.03,362.5
-334,Seto Bagh Vodka 750 ML,2080.0,0.0,0.0,Spirits,12/05/2024,15.58,12.49,14.45,1300.0
-335,Beefeater London Dry Gin 1L,6675.0,0.0,0.0,Spirits,12/05/2024,50.01,40.09,46.36,4171.88
-336,Ballantine's 21yrs Whisky - 700ml -By Cheers Online,24000.0,0.0,0.0,Spirits,12/05/2024,179.8,144.14,166.68,15000.0
-337,Old Durbar Black Chimni 375 Ml,1750.0,0.0,0.0,Spirits,12/05/2024,13.11,10.51,12.15,1093.75
-338,Indri Single Malt Indian Whisky - 700ML -By Cheers Online,8900.0,0.0,0.0,Spirits,12/05/2024,66.68,53.45,61.81,5562.5
-339,Khukri White Rum (750ml),2300.0,0.0,0.0,Spirits,12/05/2024,17.23,13.81,15.97,1437.5
-340,Signature Red Preminium Grain Whisky 750Ml,2700.0,0.0,0.0,Spirits,12/05/2024,20.23,16.22,18.75,1687.5
-341,Old Durbar Black Chimni 750 Ml,3500.0,0.0,0.0,Spirits,12/05/2024,26.22,21.02,24.31,2187.5
-342,Yeti Vodka 180 ml,550.0,0.0,0.0,Spirits,12/05/2024,4.12,3.3,3.82,343.75
-343,Highlander Vodka 180 Ml,270.0,0.0,0.0,Spirits,12/05/2024,2.02,1.62,1.88,168.75
-344,8848 Vodka 750ML,2145.0,0.0,0.0,Spirits,12/05/2024,16.07,12.88,14.9,1340.62
-345,Baron Whisky 375Ml,665.0,0.0,0.0,Spirits,12/05/2024,4.98,3.99,4.62,415.62
-346,Old Durbar 375 ML,1375.0,0.0,0.0,Spirits,12/05/2024,10.3,8.26,9.55,859.38
-347,Mustang Gold Whiskey 180ml,290.0,0.0,0.0,Spirits,12/05/2024,2.17,1.74,2.01,181.25
-348,Johnnie Walker Red Label Premium Whisky - 375ML -By Cheers Online,2750.0,0.0,0.0,Spirits,12/05/2024,20.6,16.52,19.1,1718.75
-349,Jack Daniel'S Jennessee Honey Whisky 1L,8900.0,0.0,0.0,Spirits,12/05/2024,66.68,53.45,61.81,5562.5
-350,Sky Original Vodka 750Ml,2300.0,0.0,0.0,Spirits,12/05/2024,17.23,13.81,15.97,1437.5
-351,Seagrams'S Royal Stage Deluxe Whisky 750Ml,2000.0,0.0,0.0,Spirits,12/05/2024,14.98,12.01,13.89,1250.0
-352,Golden Oak 375 Ml,580.0,0.0,0.0,Spirits,12/05/2024,4.35,3.48,4.03,362.5
-353,Black Oak 375 Ml,660.0,0.0,0.0,Spirits,12/05/2024,4.94,3.96,4.58,412.5
-354,Blue Fin 35Ml,600.0,0.0,0.0,Spirits,12/05/2024,4.5,3.6,4.17,375.0
-355,Blue Oak 750 Ml,1400.0,0.0,0.0,Spirits,12/05/2024,10.49,8.41,9.72,875.0
-356,Signature Rare Aged Whiskey 375 ML,1240.0,0.0,0.0,Spirits,12/05/2024,9.29,7.45,8.61,775.0
-357,Monkey Shoulder The Original 700Ml,7509.0,0.0,0.0,Spirits,12/05/2024,56.26,45.1,52.15,4693.12
-358,Mustang Gold Whiskey 750ml,1160.0,0.0,0.0,Spirits,12/05/2024,8.69,6.97,8.06,725.0
-359,8848 Vodka 750ml Made in Himalayan,2400.0,0.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-360,Kavalan Distillery Select No.1 (50ml),1200.0,0.0,0.0,Spirits,12/05/2024,8.99,7.21,8.33,750.0
-361,Jim Beam Black Bourbon Whisky -1L,8160.0,0.0,0.0,Spirits,12/05/2024,61.13,49.01,56.67,5100.0
-362,Baron Full Whisky 750Ml,1325.0,0.0,0.0,Spirits,12/05/2024,9.93,7.96,9.2,828.12
-363,Old Durbar Reserve 375ML,1390.0,0.0,0.0,Spirits,12/05/2024,10.41,8.35,9.65,868.75
-364,Mr Downells Full Whisky 750Ml,1300.0,0.0,0.0,Spirits,12/05/2024,9.74,7.81,9.03,812.5
-365,8848 Vodka 375 Ml,1049.0,0.0,0.0,Spirits,12/05/2024,7.86,6.3,7.29,655.62
-366,Finlandia Lime - 750 ml -By Cheers Online,4650.0,0.0,0.0,Spirits,12/05/2024,34.84,27.93,32.29,2906.25
-367,Signature Premier Grain Whiskey 750 ML,2680.0,0.0,0.0,Spirits,12/05/2024,20.08,16.1,18.61,1675.0
-368,Signature Rare Aged Whisky 750Ml,2500.0,0.0,0.0,Spirits,12/05/2024,18.73,15.01,17.36,1562.5
-369,Smirnoff Vodka 750ML (Bottled in Nepal),2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-370,Teacher's Whisky -350ML,2275.0,0.0,0.0,Spirits,12/05/2024,17.04,13.66,15.8,1421.88
-371,Golden Oak Premium Blended Malt 180 ML,290.0,0.0,0.0,Spirits,12/05/2024,2.17,1.74,2.01,181.25
-372,Signature Rare Aged Whiskey 180 ML,620.0,0.0,0.0,Spirits,12/05/2024,4.64,3.72,4.31,387.5
-373,The Himalayan Reserve Whisky 750 Ml,3400.0,0.0,0.0,Spirits,12/05/2024,25.47,20.42,23.61,2125.0
-374,Highlander Pure White Vodka 375 ML,575.0,0.0,0.0,Spirits,12/05/2024,4.31,3.45,3.99,359.38
-375,8848 Vodka 180 Ml,525.0,0.0,0.0,Spirits,12/05/2024,3.93,3.15,3.65,328.12
-376,Old Durbar Reserve -750mL,2775.0,0.0,0.0,Spirits,12/05/2024,20.79,16.67,19.27,1734.38
-377,Ruslan Vodka -375ML,1100.0,0.0,0.0,Spirits,12/05/2024,8.24,6.61,7.64,687.5
-378,"Absolut Peppar Vodka, 1ltr -By Cheers Online",6800.0,0.0,0.0,Spirits,12/05/2024,50.94,40.84,47.23,4250.0
-379,Black Oak 180 Ml,330.0,0.0,0.0,Spirits,12/05/2024,2.47,1.98,2.29,206.25
-380,Ruslan Vodka Triple Distilled 750ML,2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-381,Old Durbar Black Chimney 750 ML,3600.0,0.0,0.0,Spirits,12/05/2024,26.97,21.62,25.0,2250.0
-382,Old Durbar 180 ML,680.0,0.0,0.0,Spirits,12/05/2024,5.09,4.08,4.72,425.0
-383,Old Durbar 750 ML,2750.0,0.0,0.0,Spirits,12/05/2024,20.6,16.52,19.1,1718.75
-384,Yeti Vodka 750 ML,2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-385,Limpiya Whisky 180Ml,400.0,0.0,0.0,Spirits,12/05/2024,3.0,2.4,2.78,250.0
-386,Johnnie Walker Red Label 750 ML,5700.0,0.0,0.0,Spirits,12/05/2024,42.7,34.23,39.59,3562.5
-387,Signature Premier Grain Whiskey 180 ML,670.0,0.0,0.0,Spirits,12/05/2024,5.02,4.02,4.65,418.75
-388,Old Durbar Black Chimni 180 Ml,875.0,0.0,0.0,Spirits,12/05/2024,6.56,5.25,6.08,546.88
-389,Highlander Vodka 375 Ml,540.0,0.0,0.0,Spirits,12/05/2024,4.05,3.24,3.75,337.5
-390,Limpiya Whisky 750Ml,1590.0,0.0,0.0,Spirits,12/05/2024,11.91,9.55,11.04,993.75
-391,Johnnie Walker Red Label 200 ML,1600.0,0.0,0.0,Spirits,12/05/2024,11.99,9.61,11.11,1000.0
-392,The Original Black Oak Preminium Blended Malt Whisky 750Ml,1400.0,0.0,0.0,Spirits,12/05/2024,10.49,8.41,9.72,875.0
-393,Polska Vodka 750ML,2675.0,0.0,0.0,Spirits,12/05/2024,20.04,16.07,18.58,1671.88
-394,Vat 69 750 Ml,4370.0,0.0,0.0,Spirits,12/05/2024,32.74,26.24,30.35,2731.25
-395,Johnnie Walker Gold Label  Whisky-1L,13000.0,0.0,0.0,Spirits,12/05/2024,97.39,78.07,90.28,8125.0
-396,Signature Rare Aged Whiskey 750 ML,2500.0,0.0,0.0,Spirits,12/05/2024,18.73,15.01,17.36,1562.5
-397,J89 Select Cask Double Wood 12yrs 750ML,4500.0,0.0,0.0,Spirits,12/05/2024,33.71,27.03,31.25,2812.5
-398,Ruslan Vodka Triple Distilled 750ML (2 Bottle),4100.0,0.0,0.0,Spirits,12/05/2024,30.72,24.62,28.47,2562.5
-399,"Canadian Club Whisky, 1L -By Cheers Online",10300.0,0.0,0.0,Spirits,12/05/2024,77.17,61.86,71.53,6437.5
-400,Old Durbar Black Chimney 180 ML,900.0,0.0,0.0,Spirits,12/05/2024,6.74,5.41,6.25,562.5
-401,Royal Blue Whisky Half 375Ml,735.0,0.0,0.0,Spirits,12/05/2024,5.51,4.41,5.1,459.38
-402,Johnnie Walker Red Label 375 ML,3000.0,0.0,0.0,Spirits,12/05/2024,22.48,18.02,20.83,1875.0
-403,Bandipur Whiskey 750 Ml,4800.0,0.0,0.0,Spirits,12/05/2024,35.96,28.83,33.34,3000.0
-404,Gurkhas and Guns Whisky -750ML,3080.0,0.0,0.0,Spirits,12/05/2024,23.07,18.5,21.39,1925.0
-405,Old Durbar Black Chimney -180ML,915.0,0.0,0.0,Spirits,12/05/2024,6.85,5.5,6.35,571.88
-406,Antiquity Blue 180ml(PACK OF 3),2290.0,0.0,0.0,Spirits,12/05/2024,17.16,13.75,15.9,1431.25
-407,Malebu Rum 1000 Ml,7000.0,0.0,0.0,Spirits,12/05/2024,52.44,42.04,48.61,4375.0
-408,Khukuri White Domestic Rum 750Ml,2400.0,0.0,0.0,Spirits,12/05/2024,17.98,14.41,16.67,1500.0
-409,Mustang Gold Whiskey 375ml,580.0,0.0,0.0,Spirits,12/05/2024,4.35,3.48,4.03,362.5
-410,Captain Morgan Spiced Gold Imported Rum -1L,6700.0,0.0,0.0,Spirits,12/05/2024,50.19,40.24,46.53,4187.5
-411,Old Durbar Black Chimney Whisky 750Ml,3400.0,0.0,0.0,Spirits,12/05/2024,25.47,20.42,23.61,2125.0
-412,Grant's Blended Scotch Whisky - 1 ltr -By Cheers Online,7310.0,0.0,0.0,Spirits,12/05/2024,54.76,43.9,50.77,4568.75
-413,Ruslan Vodka Triple Distilled 750Ml,2100.0,0.0,0.0,Spirits,12/05/2024,15.73,12.61,14.58,1312.5
-414,Highlander Pure White Vodka 180 ML,285.0,0.0,0.0,Spirits,12/05/2024,2.14,1.71,1.98,178.12
-415,Johnnie Walker Black Label Premium Whisky 1L,8600.0,0.0,0.0,Spirits,12/05/2024,64.43,51.65,59.73,5375.0
-416,Baron Qua Whisky 180Ml,335.0,0.0,0.0,Spirits,12/05/2024,2.51,2.01,2.33,209.38
-417,Yeti Vodka 180 ML,570.0,0.0,0.0,Spirits,12/05/2024,4.27,3.42,3.96,356.25
-418,Malibu White Rum With Coconut 1L,6500.0,0.0,0.0,Spirits,12/05/2024,48.7,39.04,45.14,4062.5
-419,Old Durbar 1LTR,4635.0,0.0,0.0,Spirits,12/05/2024,34.72,27.84,32.19,2896.88
-420,Ruslan Vodka 375 ML,1080.0,0.0,0.0,Spirits,12/05/2024,8.09,6.49,7.5,675.0
-421,Signature Rare Aged Whisky -375ml,1245.0,0.0,0.0,Spirits,12/05/2024,9.33,7.48,8.65,778.12
-422,Finlandia Mango - 750 ml -By Cheers Online,4650.0,0.0,0.0,Spirits,12/05/2024,34.84,27.93,32.29,2906.25
-423,Baileys Original Irish Cream 70cl,7450.0,0.0,0.0,Spirits,12/05/2024,55.81,44.74,51.74,4656.25
-424,Nude Superior Vodka 750 Ml,2010.0,0.0,0.0,Spirits,12/05/2024,15.06,12.07,13.96,1256.25
-425,Signature Premier Grain -750ML,2775.0,0.0,0.0,Spirits,12/05/2024,20.79,16.67,19.27,1734.38
-426,Gill Marry Whisky 180Ml,280.0,0.0,0.0,Spirits,12/05/2024,2.1,1.68,1.94,175.0
-427,Chivas Regal 12 Yrs 750 Ml,6850.0,0.0,0.0,Spirits,12/05/2024,51.32,41.14,47.57,4281.25
-428,The Himalayan Reserve Whisky 750Ml,3300.0,0.0,0.0,Spirits,12/05/2024,24.72,19.82,22.92,2062.5
-429,Vat 69 1000 Ml,5800.0,0.0,0.0,Spirits,12/05/2024,43.45,34.83,40.28,3625.0
-430,Antiquity Blue 375ml,1525.0,0.0,0.0,Spirits,12/05/2024,11.42,9.16,10.59,953.12
-431,J89 Single Barrel Malt 750 ML,2900.0,0.0,0.0,Spirits,12/05/2024,21.73,17.42,20.14,1812.5
-432,The Balvenie Doublewood 17 Years Whisky - 700ML -By Cheers Online,24320.0,0.0,0.0,Spirits,12/05/2024,182.2,146.06,168.9,15200.0
-433,Antiquity Blue Ultra Premium Whiskey 750 ML,3000.0,0.0,0.0,Spirits,12/05/2024,22.48,18.02,20.83,1875.0
-434,"Camus XO Cognac, 1L -By Cheers Online",41940.0,0.0,0.0,Spirits,12/05/2024,314.2,251.88,291.27,26212.5
-435,Yeti Vodka 750ML,2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-436,Kaluwa 1 Ltr,7250.0,0.0,0.0,Spirits,12/05/2024,54.32,43.54,50.35,4531.25
-437,Finlandia Cranberry  - 750 ml -By Cheers Online,4650.0,0.0,0.0,Spirits,12/05/2024,34.84,27.93,32.29,2906.25
-438,Ruslan Vodka -750ML,2200.0,0.0,0.0,Spirits,12/05/2024,16.48,13.21,15.28,1375.0
-439,Johnne Walker Black Label 1000 Ml,9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-440,Signature Premier Grain Whiskey 375 ML,1340.0,0.0,0.0,Spirits,12/05/2024,10.04,8.05,9.31,837.5
-441,Johnne Walker Black Label 375 Ml,3420.0,0.0,0.0,Spirits,12/05/2024,25.62,20.54,23.75,2137.5
-442,Old Monk Xxx Rum Head Shape  750Ml,2500.0,0.0,0.0,Spirits,12/05/2024,18.73,15.01,17.36,1562.5
-443,Gurkhas & Guns Finest Blended Whiskey 750ml,3090.0,0.0,0.0,Spirits,12/05/2024,23.15,18.56,21.46,1931.25
-444,Absolut Vodka -1Ltr,5500.0,0.0,0.0,Spirits,12/05/2024,41.2,33.03,38.2,3437.5
-445,Jemson Irish 1000 Ml,7400.0,0.0,0.0,Spirits,12/05/2024,55.44,44.44,51.39,4625.0
-446,Johnnie Walker Red Label Premium Whisky 1L,6900.0,0.0,0.0,Spirits,12/05/2024,51.69,41.44,47.92,4312.5
-447,Master Selection(750 ml),3350.0,0.0,0.0,Spirits,12/05/2024,25.1,20.12,23.27,2093.75
-448,Old Durbar Black Chimney -375ML,1825.0,0.0,0.0,Spirits,12/05/2024,13.67,10.96,12.67,1140.62
-449,Ballys Original 1000ml,7200.0,0.0,0.0,Spirits,12/05/2024,53.94,43.24,50.0,4500.0
-450,Old Durbar 12 Years (750 ml),6500.0,0.0,0.0,Spirits,12/05/2024,48.7,39.04,45.14,4062.5
-451,Kavalan Classic Single Malt Whiskey Miniature (50ml),1300.0,0.0,0.0,Spirits,12/05/2024,9.74,7.81,9.03,812.5
-452,8848 Vodka(PACK OF 3) -180ML,1610.0,0.0,0.0,Spirits,12/05/2024,12.06,9.67,11.18,1006.25
-453,Captain Morgan 1000Ml,8610.0,0.0,0.0,Spirits,12/05/2024,64.5,51.71,59.8,5381.25
-454,Chivas Regal 200 ml,2170.0,0.0,0.0,Spirits,12/05/2024,16.26,13.03,15.07,1356.25
-455,Johnnie Walker Red Label  Whisky -1L,6990.0,0.0,0.0,Spirits,12/05/2024,52.37,41.98,48.55,4368.75
-456,Ballantines Finest 1Ltr,6950.0,0.0,0.0,Spirits,12/05/2024,52.07,41.74,48.27,4343.75
-457,Grey Goose Vodka - 1 ltr -By Cheers Online,12500.0,0.0,0.0,Spirits,12/05/2024,93.65,75.07,86.81,7812.5
-458,Chivas Regal 12Yrs Whisky 1L,9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-459,Old Durbar Black Chimney - 750ML Domestic Whisky,3650.0,0.0,0.0,Spirits,12/05/2024,27.34,21.92,25.35,2281.25
-460,Johnnie Walker Red Label 500 ML,3800.0,0.0,0.0,Spirits,12/05/2024,28.47,22.82,26.39,2375.0
-461,The himalayan Reserve 750ML,3400.0,0.0,0.0,Spirits,12/05/2024,25.47,20.42,23.61,2125.0
-462,Old Durbar 15yrs Blended Malt Scotch Whisky - 750ML -By Cheers Online,15000.0,0.0,0.0,Spirits,12/05/2024,112.38,90.08,104.17,9375.0
-463,Chivas Regal 375ml,3600.0,0.0,0.0,Spirits,12/05/2024,26.97,21.62,25.0,2250.0
-464,Johnnie Walker Black Label Premium Whisky 750Ml,6900.0,0.0,0.0,Spirits,12/05/2024,51.69,41.44,47.92,4312.5
-465,Johnee Walker Double Black 750 Ml,8500.0,0.0,0.0,Spirits,12/05/2024,63.68,51.05,59.03,5312.5
-466,Jack Daniel's - 1L American Whisky,8160.0,0.0,0.0,Spirits,12/05/2024,61.13,49.01,56.67,5100.0
-467,VAT 69 Blended Scotch Whisky - 750ML -By Cheers Online,4750.0,4.7,0.0,Spirits,12/05/2024,35.59,28.53,32.99,2968.75
-468,Johnnie Walker Red Label 1000 ML,8000.0,0.0,0.0,Spirits,12/05/2024,59.93,48.05,55.56,5000.0
-469,Johnnie Walker Gold label Reserve Whiskey 750ml,10400.0,0.0,0.0,Spirits,12/05/2024,77.91,62.46,72.23,6500.0
-470,Johnne Walker Black Label 500 Ml,4400.0,0.0,0.0,Spirits,12/05/2024,32.96,26.42,30.56,2750.0
-471,Dewar's 15yrs The Monarch Blended Scotch Whisky - 1ltr -By Cheers Online,13000.0,0.0,0.0,Spirits,12/05/2024,97.39,78.07,90.28,8125.0
-472,White Horse Blended Scotch Whisky - 750ML -By Cheers Online,4525.0,0.0,0.0,Spirits,12/05/2024,33.9,27.18,31.43,2828.12
-473,Jack Daniels Jennessee Whiskey 1Ltr,7800.0,0.0,0.0,Spirits,12/05/2024,58.44,46.84,54.17,4875.0
-474,Dimple Deluxe 15 Years Old Blended Scotch Whisky - 1 ltr -By Cheers Online,10600.0,0.0,0.0,Spirits,12/05/2024,79.41,63.66,73.62,6625.0
-475,Ruslan Vodka 180 ML,550.0,0.0,0.0,Spirits,12/05/2024,4.12,3.3,3.82,343.75
-476,Dewar's 12 Year Old The Ancestor Blended Scotch Whisky - 1 ltr -By Cheers Online,8800.0,2.0,0.0,Spirits,12/05/2024,65.93,52.85,61.12,5500.0
-477,Johnnie Walker Red Label -750ML,5350.0,0.0,0.0,Spirits,12/05/2024,40.08,32.13,37.16,3343.75
-478,Johnnie Walker Black Label  Whisky -750ML,6900.0,0.0,0.0,Spirits,12/05/2024,51.69,41.44,47.92,4312.5
-479,Johnee Walker Double Black 1000 Ml,9700.0,0.0,0.0,Spirits,12/05/2024,72.67,58.25,67.37,6062.5
-480,Yarsha Gumba 750 Ml,11000.0,0.0,0.0,Spirits,12/05/2024,82.41,66.06,76.39,6875.0
-481,Founder Reserves 1000ml,9800.0,0.0,0.0,Spirits,12/05/2024,73.42,58.86,68.06,6125.0
-482,VAT 69 Blended Scotch Whisky - 375ML -By Cheers Online,2425.0,0.0,0.0,Spirits,12/05/2024,18.17,14.56,16.84,1515.62
-483,Bottega Alexander Vodka,6950.0,0.0,0.0,Spirits,12/05/2024,52.07,41.74,48.27,4343.75
-484,Kavalan Concertmaster Sherry Finish Single Malt Whiskey (700ml),18000.0,0.0,0.0,Spirits,12/05/2024,134.85,108.1,125.01,11250.0
-485,Ballantine's Finest 1L,6950.0,0.0,0.0,Spirits,12/05/2024,52.07,41.74,48.27,4343.75
-486,Gold Label Reserve -750 ml,10500.0,0.0,0.0,Spirits,12/05/2024,78.66,63.06,72.92,6562.5
-487,Absolut Vodka 1000 Ml,6200.0,0.0,0.0,Spirits,12/05/2024,46.45,37.24,43.06,3875.0
-488,Jack Daniel's 750ML,6245.0,0.0,0.0,Spirits,12/05/2024,46.79,37.51,43.37,3903.12
-489,Jameson Irish 750ml,5660.0,0.0,0.0,Spirits,12/05/2024,42.4,33.99,39.31,3537.5
-490,Johnnie Walker Blue Label 200ml,9200.0,0.0,0.0,Spirits,12/05/2024,68.92,55.25,63.89,5750.0
-491,Jack Daniels 1000 Ml,7940.0,0.0,0.0,Spirits,12/05/2024,59.48,47.68,55.14,4962.5
-492,Kavalan Concertmaster,18000.0,0.0,0.0,Spirits,12/05/2024,134.85,108.1,125.01,11250.0
-493,Ciroc Vodka - 750 ml -By Cheers Online,7900.0,0.0,0.0,Spirits,12/05/2024,59.18,47.44,54.86,4937.5
-494,Skyy Original Vodka - 1L -By Cheers Online,6995.0,0.0,0.0,Spirits,12/05/2024,52.4,42.01,48.58,4371.88
-495,The Glenlivet 12yrs Double Oak  Whisky -1L,12750.0,0.0,0.0,Spirits,12/05/2024,95.52,76.57,88.55,7968.75
-496,Gold Label Reserve  1 Ltr,13000.0,0.0,0.0,Spirits,12/05/2024,97.39,78.07,90.28,8125.0
-497,Johnnie Walker Black Label  Whisky -1L,9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-498,J&B Rare Scotch Whisky - 1 ltr -By Cheers Online,7000.0,0.0,0.0,Spirits,12/05/2024,52.44,42.04,48.61,4375.0
-499,Glenfiddich 18yrs 700ML,18580.0,0.0,0.0,Spirits,12/05/2024,139.2,111.58,129.04,11612.5
-500,Chivas Regal 25 Year Old Blended Scotch Whisky - 700 ml -By Cheers Online,51000.0,0.0,0.0,Spirits,12/05/2024,382.08,306.29,354.19,31875.0
-501,Chivas Regal 12 Yrs 1000 Ml,9000.0,0.0,0.0,Spirits,12/05/2024,67.43,54.05,62.5,5625.0
-502,Absolut Vodka 750ml,5700.0,0.0,0.0,Spirits,12/05/2024,42.7,34.23,39.59,3562.5
-503,Kavalan Ex-Bourbon Oak Single Malt Whiskey (700ml),23000.0,0.0,0.0,Spirits,12/05/2024,172.31,138.13,159.73,14375.0
-504,Kavalan Podium Single Malt Whisky,25000.0,0.0,0.0,Spirits,12/05/2024,187.29,150.14,173.62,15625.0
-505,Kavalan Solist ex-Bourbon Single Cask (700ml),26000.0,0.0,0.0,Spirits,12/05/2024,194.79,156.15,180.57,16250.0
-506,The Glenlivert 15 Yrs 1000 Ml,15850.0,0.0,0.0,Spirits,12/05/2024,118.74,95.19,110.08,9906.25
-507,Ruslan Vodka Triple Distilled 750ML (5 Bottle),10500.0,0.0,0.0,Spirits,12/05/2024,78.66,63.06,72.92,6562.5
-508,VAT 69 Blended Scotch Whisky - 1L -By Cheers Online,6290.0,5.0,0.0,Spirits,12/05/2024,47.12,37.78,43.68,3931.25
-509,Kavalan Oloroso Sherry Oak Single Malt Whiskey (700ml),27000.0,0.0,0.0,Spirits,12/05/2024,202.28,162.15,187.51,16875.0
-510,Kavalan Solist Port Single Cask Strength (700ml),28000.0,0.0,0.0,Spirits,12/05/2024,209.77,168.16,194.46,17500.0
-511,Ciroc Regular Vodka -750ML,7900.0,0.0,0.0,Spirits,12/05/2024,59.18,47.44,54.86,4937.5
-512,Kavalan Solist Vinho Barrique Single Cask,33000.0,0.0,0.0,Spirits,12/05/2024,247.23,198.19,229.18,20625.0
-513,Glenfiddich 15yrs 1L,18500.0,0.0,0.0,Spirits,12/05/2024,138.6,111.1,128.48,11562.5
-514,VAT 69 Whisky 1L,6290.0,0.0,0.0,Spirits,12/05/2024,47.12,37.78,43.68,3931.25
-515,Royal Salute 21 Yo 700 Ml,32000.0,0.0,0.0,Spirits,12/05/2024,239.74,192.18,222.24,20000.0
-516,Chivas Regal 12 Year Old Blended Scotch Whisky - 750 ml -By Cheers Online,6850.0,0.0,0.0,Spirits,12/05/2024,51.32,41.14,47.57,4281.25
-517,Smirnoff Red Regular Vodka -1L,5950.0,0.0,0.0,Spirits,12/05/2024,44.58,35.73,41.32,3718.75
-518,Chivas Regal Gold Signature Aged 18 years Scotch Whiskey 1Litre,16000.0,0.0,0.0,Spirits,12/05/2024,119.87,96.09,111.12,10000.0
-519,8848 Vodka 750ml Made in Himalayan (10 Bottle),24000.0,0.0,0.0,Spirits,12/05/2024,179.8,144.14,166.68,15000.0
-520,Yeti vodka 375 ml,1100.0,0.0,0.0,Spirits,12/05/2024,8.24,6.61,7.64,687.5
-521,Old Durbar Two Continents 750,2700.0,5.0,0.0,Spirits,12/05/2024,20.23,16.22,18.75,1687.5
-522,Jameson Irish - 1L  Premium Whisky,7500.0,5.0,0.0,Spirits,12/05/2024,56.19,45.04,52.09,4687.5
-523,Black Label 12 Yrs 50 ml,650.0,4.0,0.0,Spirits,12/05/2024,4.87,3.9,4.51,406.25
-524,Blue Diamond London Extra Day 750 ML,1120.0,0.0,0.0,Spirits,12/05/2024,8.39,6.73,7.78,700.0
-525,Blue Diamond London Extra Day 180 ML,290.0,0.0,0.0,Spirits,12/05/2024,2.17,1.74,2.01,181.25
-526,Blue Diamond London Extra Day 375 ML,560.0,0.0,0.0,Spirits,12/05/2024,4.2,3.36,3.89,350.0
-527,Iconic Russian 750Ml,1365.0,0.0,0.0,Spirits,12/05/2024,10.23,8.2,9.48,853.12
-528,Passport Old Reserve Blend Select Barrels 375ml,480.0,0.0,0.0,Spirits,12/05/2024,3.6,2.88,3.33,300.0
-529,Mustang Gold 180 Ml,290.0,0.0,0.0,Spirits,12/05/2024,2.17,1.74,2.01,181.25
-530,Gurkhas and Gun Finest Blended Whisky,2980.0,0.0,0.0,Spirits,12/05/2024,22.33,17.9,20.7,1862.5
-531,Excellence Vodka 750ml,1665.0,0.0,0.0,Spirits,12/05/2024,12.47,10.0,11.56,1040.62
-532,365 Days Vodka 750 Ml,1000.0,0.0,0.0,Spirits,12/05/2024,7.49,6.01,6.94,625.0
-533,Excellence Vodka 180ml,415.0,0.0,0.0,Spirits,12/05/2024,3.11,2.49,2.88,259.38
-534,365 Days Vodka 375 Ml,500.0,0.0,0.0,Spirits,12/05/2024,3.75,3.0,3.47,312.5
-535,Jack Daniels Whiskey JD 500ml,4180.0,0.0,0.0,Spirits,12/05/2024,31.32,25.1,29.03,2612.5
-536,Signature Rare 750 Ml,2320.0,0.0,0.0,Spirits,12/05/2024,17.38,13.93,16.11,1450.0
-537,Signature Rare 375 Ml,1160.0,0.0,0.0,Spirits,12/05/2024,8.69,6.97,8.06,725.0
-538,Old Durbar 1000 ML,3400.0,0.0,0.0,Spirits,12/05/2024,25.47,20.42,23.61,2125.0
-539,Chivas Regal Extra 750 Ml,6924.0,0.0,0.0,Spirits,12/05/2024,51.87,41.58,48.09,4327.5
-540,Johnnie Walker Blue Label 1L,38000.0,0.0,0.0,Spirits,12/05/2024,284.69,228.21,263.91,23750.0
-541,Royal Big Master Regular Mixed Fruit Wine 750Ml,885.0,0.0,0.0,Wines,12/05/2024,6.63,5.31,6.15,553.12
-542,Royal Big Master Regular Perfect Fruit Sweet Red Wine 750Ml,885.0,0.0,0.0,Wines,12/05/2024,6.63,5.31,6.15,553.12
-543,Bottega Soave Classico DOC White Wine 750ML -By Cheers Online,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-544,Gato Negro Semi Sweet White 750Ml,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-545,Akira Sweet Red Wine 750 ML,825.0,0.0,0.0,Wines,12/05/2024,6.18,4.95,5.73,515.62
-546,Bottega Sauvignon Blanc By Bottega - 750 ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-547,Bottega Sauvignon Blanc,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-548,Lindeman's Bin 90 Moscato White Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-549,Big Master Mix Fruit Wine 750 ML,825.0,0.0,0.0,Wines,12/05/2024,6.18,4.95,5.73,515.62
-550,Royal Big Master Perfect Fruit Red Wine 750,850.0,0.0,0.0,Wines,12/05/2024,6.37,5.1,5.9,531.25
-551,The Rising Royals Sweet Red Wine 750ml,995.0,0.0,0.0,Wines,12/05/2024,7.45,5.98,6.91,621.88
-552,Big Master Regular Red Wine 750 Ml,700.0,0.0,0.0,Wines,12/05/2024,5.24,4.2,4.86,437.5
-553,Hardys VR Sweet Red - 750 ml -By Cheers Online,1850.0,0.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-554,Royal Big Master Perfect Fruit Sweet Red Wine Premium 750,925.0,0.0,0.0,Wines,12/05/2024,6.93,5.56,6.42,578.12
-555,Ultrablack's Divine Wine White 750ml,775.0,0.0,0.0,Wines,12/05/2024,5.81,4.65,5.38,484.38
-556,Big Master Perfect Fruit Sweet Red Wine 750Ml,950.0,0.0,0.0,Wines,12/05/2024,7.12,5.71,6.6,593.75
-557,Nessy Wine a finest Nepali wine,650.0,0.0,0.0,Wines,12/05/2024,4.87,3.9,4.51,406.25
-558,Royal Big Master Apple Sweet White Wine Premium 750,890.0,0.0,0.0,Wines,12/05/2024,6.67,5.35,6.18,556.25
-559,Divine Wine 750 Ml,700.0,0.0,0.0,Wines,12/05/2024,5.24,4.2,4.86,437.5
-560,Adoro White Sweet Wine 750Ml,1600.0,0.0,0.0,Wines,12/05/2024,11.99,9.61,11.11,1000.0
-561,Hardys Stamp Chardonnay Semillon- 750 ml -By Cheers Online,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-562,Calvet White Wine 750Ml,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-563,Lindeman's Bin 40 Merlot Red Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-564,DIVINE WINE (Red),730.0,0.0,0.0,Wines,12/05/2024,5.47,4.38,5.07,456.25
-565,2 Share Natural Sweet Red 750ML,1500.0,0.0,0.0,Wines,12/05/2024,11.24,9.01,10.42,937.5
-566,Bottega Pinot Grigio Venezia Doc - 750 ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-567,Nederburg Winemasters Reserve Riesling White Wine - 750ml -By Cheers Online,2935.0,0.0,0.0,Wines,12/05/2024,21.99,17.63,20.38,1834.38
-568,Lindeman's Bin 50 Shiraz Red Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-569,Hakodate Keruna - Japanese Sparkling Wine 720Ml,3670.0,0.0,0.0,Wines,12/05/2024,27.49,22.04,25.49,2293.75
-570,Durbanville Hills Chardonnay - 750ML -By Cheers Online,2935.0,0.0,0.0,Wines,12/05/2024,21.99,17.63,20.38,1834.38
-571,Bottega Pinot Grigio Venezia DOC White Wine 750ML -By Cheers Online,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-572,Vega White Wine 750Ml,1600.0,0.0,0.0,Wines,12/05/2024,11.99,9.61,11.11,1000.0
-573,Jacob's Creek Classic Pinot Grigio 750ML,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-574,Lindemans Bin 85 Pinot Grigio,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-575,Lindeman's Bin 35 Rose Wine - 750ML -By Cheers Online,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-576,Durbanville Hills Sauvignon Blanc - 750ML -By Cheers Online,2935.0,0.0,0.0,Wines,12/05/2024,21.99,17.63,20.38,1834.38
-577,Campo Viejo Rioja Tempranillo Red Wine 750ML -By Cheers Online,2700.0,0.0,0.0,Wines,12/05/2024,20.23,16.22,18.75,1687.5
-578,Canvas Sweet Red 750ML,895.0,0.0,0.0,Wines,12/05/2024,6.71,5.38,6.22,559.38
-579,Villa Cardini Nero D'Avola Red Wine - 750ML -By Cheers Online,1850.0,0.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-580,Climat Sweet White Wine 750ml,695.0,0.0,0.0,Wines,12/05/2024,5.21,4.17,4.83,434.38
-581,Jc Grenache Shiraz 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-582,Boron D' Arignac White 750Ml,1600.0,0.0,0.0,Wines,12/05/2024,11.99,9.61,11.11,1000.0
-583,Campo Viejo Rioja Reserva Red Wine 750ML -By Cheers Online,3450.0,0.0,0.0,Wines,12/05/2024,25.85,20.72,23.96,2156.25
-584,Baron D'Arignac Sweet Red 750ML,1500.0,0.0,0.0,Wines,12/05/2024,11.24,9.01,10.42,937.5
-585,Primavera Vine Blanco white wine,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-586,JP Chenet Fashion Peach-750ml,1810.0,0.0,0.0,Wines,12/05/2024,13.56,10.87,12.57,1131.25
-587,Gato Negro Semi Sweeet White (750ml),1700.0,0.0,0.0,Wines,12/05/2024,12.74,10.21,11.81,1062.5
-588,Jacob's Creek Classic Shiraz Cabernet 750ML,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-589,Valdouro Porto Ruby Port 750ML,2500.0,0.0,0.0,Wines,12/05/2024,18.73,15.01,17.36,1562.5
-590,Royal Musk Limestone Coast Cabernet Sauvignon 750ML,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-591,Hakodate Bacchus-Japanese White Wine 720Ml,3170.0,0.0,0.0,Wines,12/05/2024,23.75,19.04,22.02,1981.25
-592,Durbanville Hills Pinotage - 750 ml -By Cheers Online,2935.0,0.0,0.0,Wines,12/05/2024,21.99,17.63,20.38,1834.38
-593,Porto Valdouro White Port Wine 750ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-594,Bottega Merlot IGT 750ml,2495.0,0.0,0.0,Wines,12/05/2024,18.69,14.98,17.33,1559.38
-595,Jc Merlot 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-596,Pinot Noir Vesper(750 ml),2500.0,0.0,0.0,Wines,12/05/2024,18.73,15.01,17.36,1562.5
-597,Canvas Sweet White Wine 750ml,800.0,0.0,0.0,Wines,12/05/2024,5.99,4.8,5.56,500.0
-598,Lindemans Bin 95 Sauvignon Blanc,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-599,JP Chenet Fashion Flavoured Wine - 750ML -By Cheers Online,1950.0,0.0,0.0,Wines,12/05/2024,14.61,11.71,13.54,1218.75
-600,Palacio Del Campo (Spain)(Red),1250.0,0.0,0.0,Wines,12/05/2024,9.36,7.51,8.68,781.25
-601,Bottega Pinot Grigio Rose - 750 ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-602,2 Share Natural Sweet White 750ML,1500.0,0.0,0.0,Wines,12/05/2024,11.24,9.01,10.42,937.5
-603,Oina Sevea Sweet Wine 750Ml,1600.0,0.0,0.0,Wines,12/05/2024,11.99,9.61,11.11,1000.0
-604,Vinedos Del Litoral - White Sweet Wine (750ml),1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-605,J. P. CHENET CLASSIC Molleux Red - 750ml,1850.0,0.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-606,Bottega Moscato Still - 750 ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-607,Lindemans Bin 40 Merlot,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-608,Saipal Red Wine 750ml,900.0,0.0,0.0,Wines,12/05/2024,6.74,5.41,6.25,562.5
-609,JP Chenet Fashion Litchi -750ML,1810.0,0.0,0.0,Wines,12/05/2024,13.56,10.87,12.57,1131.25
-610,Royal Musk Sauvignon Blanc 750ML,1500.0,0.0,0.0,Wines,12/05/2024,11.24,9.01,10.42,937.5
-611,Stanley Dolce Rosso Red 4L,6800.0,0.0,0.0,Wines,12/05/2024,50.94,40.84,47.23,4250.0
-612,Bottega Acino Chianti Classico - 750 ml,4000.0,0.0,0.0,Wines,12/05/2024,29.97,24.02,27.78,2500.0
-613,OBiKWA Pinotage Red Wine - 750ml -By Cheers Online,2350.0,0.0,0.0,Wines,12/05/2024,17.61,14.11,16.32,1468.75
-614,Canvas Red Wine 750Ml,895.0,0.0,0.0,Wines,12/05/2024,6.71,5.38,6.22,559.38
-615,Bottega Acino Chianti Classico Riserva DOCG Red Wine 750ML -By Cheers Online,5000.0,0.0,0.0,Wines,12/05/2024,37.46,30.03,34.72,3125.0
-616,Jacob's Creek Classic Chardonnay 750ml,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-617,Porto Wine 750Ml,4150.0,0.0,0.0,Wines,12/05/2024,31.09,24.92,28.82,2593.75
-618,Refreshing Jc Shiraj Cabernet 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-619,Lindemans Bin 90 Moscato Wine -750ml,2100.0,0.0,0.0,Wines,12/05/2024,15.73,12.61,14.58,1312.5
-620,Jc Semillion Chardonnay 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-621,Hakodate Dornfelder Red Wine 720Ml,3170.0,0.0,0.0,Wines,12/05/2024,23.75,19.04,22.02,1981.25
-622,Villa Cardini Bardolino Red Wine - 750ML -By Cheers Online,1950.0,0.0,0.0,Wines,12/05/2024,14.61,11.71,13.54,1218.75
-623,BIG MASTER PREMIUM 750ML (White),890.0,0.0,0.0,Wines,12/05/2024,6.67,5.35,6.18,556.25
-624,Bottega Rosso Montalcino Doc - 750 ml,4000.0,0.0,0.0,Wines,12/05/2024,29.97,24.02,27.78,2500.0
-625,JP Chenet Sweet Red 750ML,1850.0,0.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-626,JP Chenet Sweet White Wine - 750ML,1800.0,0.0,0.0,Wines,12/05/2024,13.49,10.81,12.5,1125.0
-627,Bottega Merlot - 750 ml,2300.0,0.0,0.0,Wines,12/05/2024,17.23,13.81,15.97,1437.5
-628,Bottega Amarone Della Valpolicella DOCG Red Wine 750ML -By Cheers Online,8500.0,0.0,0.0,Wines,12/05/2024,63.68,51.05,59.03,5312.5
-629,J.P Chenet Apple 750Ml,2800.0,0.0,0.0,Wines,12/05/2024,20.98,16.82,19.45,1750.0
-630,JP Chenet Sweet White 750ML,1850.0,0.0,0.0,Wines,12/05/2024,13.86,11.11,12.85,1156.25
-631,Primavera Vine Blanco Red wine 750ml,2000.0,0.0,0.0,Wines,12/05/2024,14.98,12.01,13.89,1250.0
-632,Bottega Amarone Valpol. Docg - 750 ml,8500.0,0.0,0.0,Wines,12/05/2024,63.68,51.05,59.03,5312.5
-633,Bottega Acino Chianti Classico  Riserva - 750 ml,5000.0,0.0,0.0,Wines,12/05/2024,37.46,30.03,34.72,3125.0
-634,"Calvet Chateauneuf Du Pape Red Wine, 750ml -By Cheers Online",5300.0,0.0,0.0,Wines,12/05/2024,39.71,31.83,36.81,3312.5
-635,J.P Chenet Peach 750Ml,2800.0,0.0,0.0,Wines,12/05/2024,20.98,16.82,19.45,1750.0
-636,Bottega Brunello Di Montalcino DOCG Red Wine 750ML -By Cheers Online,9500.0,0.0,0.0,Wines,12/05/2024,71.17,57.05,65.98,5937.5
-637,Laine Napolean 750Ml,4500.0,0.0,0.0,Wines,12/05/2024,33.71,27.03,31.25,2812.5
-638,Canvas Sweet Red Wine 4L,3995.0,0.0,0.0,Wines,12/05/2024,29.93,23.99,27.74,2496.88
-639,Bottega Brunello Montalcino Docg - 750 ml,9500.0,0.0,0.0,Wines,12/05/2024,71.17,57.05,65.98,5937.5
-640,Bottega Pret A Porter Brunello Riserva - 750 ml,18000.0,0.0,0.0,Wines,12/05/2024,134.85,108.1,125.01,11250.0
-641,Bottega Pret A Porter Amarone Doc - 750 ml,17000.0,0.0,0.0,Wines,12/05/2024,127.36,102.1,118.06,10625.0
-642,Aroma Premium Red Wine 750ml,1050.0,0.0,0.0,Wines,12/05/2024,7.87,6.31,7.29,656.25
-643,Divine Wines Red Sweet Wine 750ml,775.0,4.0,0.0,Wines,12/05/2024,5.81,4.65,5.38,484.38
-644,Jacob's Creek Classic Moscato 750ML,1875.0,0.0,0.0,Wines,12/05/2024,14.05,11.26,13.02,1171.88
-645,Jc Sauvignon Blanc 750 Ml,1785.0,0.0,0.0,Wines,12/05/2024,13.37,10.72,12.4,1115.62
-646,Baron d'Arignac Dry White 750ML,1500.0,0.0,0.0,Wines,12/05/2024,11.24,9.01,10.42,937.5
-647,Sangria Claudio 1500Ml,3650.0,0.0,0.0,Wines,12/05/2024,27.34,21.92,25.35,2281.25
+,product_name,product_price,product_rating,sold_quantity,scraped_date,product_price_usd,product_price_eur,product_price_gbp,product_price_inr
+0,Khukri XXX Rum 375ml,1020.0,4.8,0.0,28/04/2024,7.64,6.13,7.08,637.5
+1,Old Durbar Black Chimney 180,850.0,3.8,0.0,28/04/2024,6.37,5.1,5.9,531.25
+2,Khukri Rum 180Ml,510.0,4.0,0.0,28/04/2024,3.82,3.06,3.54,318.75
+3,Simirnoff Ten Time Filter Vodka 750Ml,2050.0,5.0,0.0,28/04/2024,15.36,12.31,14.24,1281.25
+4,Minsk Apple 750Ml,1200.0,5.0,0.0,28/04/2024,8.99,7.21,8.33,750.0
+5,Old Durbar Black Chimney Blended Reserve Whisky -750ml,3650.0,4.7,0.0,28/04/2024,27.34,21.92,25.35,2281.25
+6,Glanfeddich 1 Ltr 12 Yrs,8200.0,0.0,0.0,28/04/2024,61.43,49.25,56.95,5125.0
+7,Signature Rare 750Ml,2100.0,0.0,0.0,28/04/2024,15.73,12.61,14.58,1312.5
+8,Choya Umeshu Shiso Fruit Liqueur - 750Ml,5350.0,0.0,0.0,28/04/2024,40.08,32.13,37.16,3343.75
+9,Limoncino Liquor Bottega 30% Cl50 - 500 ml,4500.0,0.0,0.0,28/04/2024,33.71,27.03,31.25,2812.5
+10,Blue Daimand 375 Ml,560.0,0.0,0.0,28/04/2024,4.2,3.36,3.89,350.0
+11,San Soju 300ml 7pcs,1190.0,0.0,0.0,28/04/2024,8.92,7.15,8.26,743.75
+12,Jagermeister 200ML,1600.0,0.0,0.0,28/04/2024,11.99,9.61,11.11,1000.0
+13,8848 Vodka 750,2105.0,0.0,0.0,28/04/2024,15.77,12.64,14.62,1315.62
+14,Highlander Pure White Vodka 750,1140.0,0.0,0.0,28/04/2024,8.54,6.85,7.92,712.5
+15,Golden Oak Premium Blended Malt 750ml,1150.0,0.0,0.0,28/04/2024,8.62,6.91,7.99,718.75
+16,Blue Daimand 750 Ml,1120.0,0.0,0.0,28/04/2024,8.39,6.73,7.78,700.0
+17,8848 Vodka 375,1075.0,0.0,0.0,28/04/2024,8.05,6.46,7.47,671.88
+18,Bottega Bacur Gin (700ml),6950.0,0.0,0.0,28/04/2024,52.07,41.74,48.27,4343.75
+19,8848 Vodka 180,535.0,0.0,0.0,28/04/2024,4.01,3.21,3.72,334.38
+20,Red & Black Whiskey 375ML,650.0,0.0,0.0,28/04/2024,4.87,3.9,4.51,406.25
+21,Bottega Limoncino Liquore 30% 500ml,4465.0,0.0,0.0,28/04/2024,33.45,26.82,31.01,2790.62
+22,Blue Riband Gin 180ML(PACK OF 3),1320.0,0.0,0.0,28/04/2024,9.89,7.93,9.17,825.0
+23,Peach Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,28/04/2024,33.71,27.03,31.25,2812.5
+24,Pinapple Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,28/04/2024,33.71,27.03,31.25,2812.5
+25,Vermouth Bianco/White Bottega 16% 75Cl - 750 ml,3600.0,0.0,0.0,28/04/2024,26.97,21.62,25.0,2250.0
+26,Blue Diamond -375ML,600.0,0.0,0.0,28/04/2024,4.5,3.6,4.17,375.0
+27,Melon Liquor Bottega 28% Cl50 - 500 ml,4500.0,0.0,0.0,28/04/2024,33.71,27.03,31.25,2812.5
+28,Beefeater Gin 500Ml,3650.0,0.0,0.0,28/04/2024,27.34,21.92,25.35,2281.25
+29,Nude Superior Vodka 180 Ml,500.0,0.0,0.0,28/04/2024,3.75,3.0,3.47,312.5
+30,Bombay Sapphire London Dry Gin 1000 Ml,5400.0,0.0,0.0,28/04/2024,40.46,32.43,37.5,3375.0
+31,Gordon'S Gin 1000Ml,7615.0,0.0,0.0,28/04/2024,57.05,45.73,52.89,4759.38
+32,Sky Vodka Original 1000 Ml,6995.0,0.0,0.0,28/04/2024,52.4,42.01,48.58,4371.88
+33,Baileys Original Liquor -1L,7300.0,0.0,0.0,28/04/2024,54.69,43.84,50.7,4562.5
+34,Gordon's special London dry gin - 1 Ltr,6700.0,0.0,0.0,28/04/2024,50.19,40.24,46.53,4187.5
+35,Khukri XXX Rum 375 ML,1020.0,0.0,0.0,28/04/2024,7.64,6.13,7.08,637.5
+36,Dewars Special Reserve Whiskey 12 Years 1000ml,8550.0,0.0,0.0,28/04/2024,64.05,51.35,59.38,5343.75
+37,The Famous Grouse 1 Ltr,6800.0,0.0,0.0,28/04/2024,50.94,40.84,47.23,4250.0
+38,Gold Leaf Hideyoshi Ougon Hyoutan Kinpanku 720Ml,11140.0,0.0,0.0,05/05/2024,83.46,66.9,77.37,6962.5
+39,Johnnie Walker Double Black Whisky 1L,10000.0,0.0,0.0,05/05/2024,74.92,60.06,69.45,6250.0
+40,Old Marphali Apple Brandy 750ml,1300.0,4.5,0.0,12/05/2024,9.74,7.81,9.03,812.5
+41,Khukri Coronation Domestic Rum - 375ML -By Cheers Online,2700.0,4.9,5.0,12/05/2024,20.23,16.22,18.75,1687.5
+42,Glenfiddich Whiskey 12yrs 1L,11500.0,0.0,0.0,12/05/2024,86.16,69.06,79.87,7187.5
+43,Seagram's Royal Stag Whisky - 750ML -By Cheers Online,2000.0,5.0,0.0,12/05/2024,14.98,12.01,13.89,1250.0
+44,Old Durbar Reserve Whisky - 750ml -By Cheers Online,2775.0,4.9,9.0,12/05/2024,20.79,16.67,19.27,1734.38
+45,Marpha Mustang Apple Brandy - 750ML -By Cheers Online,1050.0,4.2,1.0,12/05/2024,7.87,6.31,7.29,656.25
+46,8848 Vodka 750ml Made in Himalayan -2 Bottles,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+47,Black Label Blended Scotch Whisky 375ml,3600.0,0.0,0.0,12/05/2024,26.97,21.62,25.0,2250.0
+48,Highlander Vodka 750 Ml,1080.0,0.0,0.0,12/05/2024,8.09,6.49,7.5,675.0
+49,Old Durbar Reserve Whisky - 1L -By Cheers Online,3515.0,4.6,5.0,12/05/2024,26.33,21.11,24.41,2196.88
+50,Limpa Apricot Brandy 750ml By World Marpha Wine Udhyog Pvt.Ltd,1175.0,0.0,0.0,12/05/2024,8.8,7.06,8.16,734.38
+51,Old Durbar Black Chimney Whisky - 1L -By Cheers Online,4635.0,5.0,3.0,12/05/2024,34.72,27.84,32.19,2896.88
+52,Signature Premier Grain Whisky - 1L -By Cheers Online,3470.0,4.0,0.0,12/05/2024,26.0,20.84,24.1,2168.75
+53,Old Durbar Reserve -1L,3515.0,5.0,0.0,12/05/2024,26.33,21.11,24.41,2196.88
+54,Khukuri XXX Domestic Rum - 750ML -By Cheers Online,2050.0,4.6,4.0,12/05/2024,15.36,12.31,14.24,1281.25
+55,"8848 Vodka, 750ml -By Cheers Online",2145.0,5.0,6.0,12/05/2024,16.07,12.88,14.9,1340.62
+56,Chivas Regal 12yrs  Whisky -1L,9000.0,5.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+57,Limpa Mitho 750ML 30UP Marpha Apple Brandy,950.0,5.0,0.0,12/05/2024,7.12,5.71,6.6,593.75
+58,Yarchagumba Beverage Golden Sapphire 750ML -By Cheers Online,11000.0,4.3,3.0,12/05/2024,82.41,66.06,76.39,6875.0
+59,Mustang Gold Whisky - 750ML -By Cheers Online,1200.0,5.0,0.0,12/05/2024,8.99,7.21,8.33,750.0
+60,Jack Daniel's Fire Tennessee Whisky - 750 ml -By Cheers Online,6245.0,5.0,0.0,12/05/2024,46.79,37.51,43.37,3903.12
+61,Johnnie Walker Black Label Premium Whisky - 750ML -By Cheers Online,6900.0,5.0,4.0,12/05/2024,51.69,41.44,47.92,4312.5
+62,Soju Good Day Original 360 ml,1300.0,5.0,0.0,12/05/2024,9.74,7.81,9.03,812.5
+63,Himalayan Brandy - 750ML -By Cheers Online,1950.0,4.3,0.0,12/05/2024,14.61,11.71,13.54,1218.75
+64,Johnnie Walker Double Black Whisky 750Ml,8200.0,0.0,0.0,12/05/2024,61.43,49.25,56.95,5125.0
+65,8848 Rye Vodka x Tsherin Sherpa - 750ML -By Cheers Online,2400.0,5.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+66,Old Monk XXX Rum - 750ml -By Cheers Online,1950.0,5.0,3.0,12/05/2024,14.61,11.71,13.54,1218.75
+67,Yeti Vodka - 750ML -By Cheers Online,2260.0,4.7,0.0,12/05/2024,16.93,13.57,15.7,1412.5
+68,Gurkhas and Guns Finest Blended Whisky - 750ML -By Cheers Online,3080.0,5.0,5.0,12/05/2024,23.07,18.5,21.39,1925.0
+69,The Glenlivet Founder's Reserve Whisky - 1L -By Cheers Online,9800.0,0.0,0.0,12/05/2024,73.42,58.86,68.06,6125.0
+70,Old Durbar Black Chimney Whisky - 750 ml -By Cheers Online,3650.0,4.8,3.0,12/05/2024,27.34,21.92,25.35,2281.25
+71,Bandipur Blended Malt Scotch Whisky - 750ML -By Cheers Online,4950.0,5.0,0.0,12/05/2024,37.08,29.73,34.38,3093.75
+72,Khukuri White Domestic Rum - 750ML -By Cheers Online,2400.0,1.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+73,"Captain Morgan Spiced Gold Rum, 1L -By Cheers Online",6700.0,5.0,0.0,12/05/2024,50.19,40.24,46.53,4187.5
+74,Malibu Coconut Rum - 1L -By Cheers Online,7150.0,5.0,0.0,12/05/2024,53.57,42.94,49.66,4468.75
+75,Khukuri Spice Domestic Rum -750Ml,2350.0,5.0,0.0,12/05/2024,17.61,14.11,16.32,1468.75
+76,The Himalayan Reserve Whisky - 750ML -By Cheers Online,3400.0,5.0,0.0,12/05/2024,25.47,20.42,23.61,2125.0
+77,Jack Daniel's Tennessee Whisky - 1 ltr -By Cheers Online,8160.0,4.3,0.0,12/05/2024,61.13,49.01,56.67,5100.0
+78,Johnnie Walker Red Label Premium Whisky - 1L -By Cheers Online,6990.0,4.7,0.0,12/05/2024,52.37,41.98,48.55,4368.75
+79,Absolut Vodka -1ltr,6550.0,5.0,0.0,12/05/2024,49.07,39.34,45.49,4093.75
+80,Finlandia Regular - 750 ml -By Cheers Online,4650.0,5.0,0.0,12/05/2024,34.84,27.93,32.29,2906.25
+81,Old Durbar 12yrs Blended Scotch Artwork by Lok Chitrakar - 750ML -By Cheers Online,5000.0,5.0,0.0,12/05/2024,37.46,30.03,34.72,3125.0
+82,"Baileys Original, 1ltr -By Cheers Online",7300.0,4.0,0.0,12/05/2024,54.69,43.84,50.7,4562.5
+83,Signature Rare Aged Whisky 1L,3055.0,5.0,0.0,12/05/2024,22.89,18.35,21.22,1909.38
+84,Old Durbar Reserve Whisky 750Ml,2600.0,5.0,0.0,12/05/2024,19.48,15.61,18.06,1625.0
+85,Jim Beam Kentucky Straight Bourbon Whiskey 1ltr,8500.0,0.0,0.0,12/05/2024,63.68,51.05,59.03,5312.5
+86,Gurkha And Guns Finest Blended Whisky 750Ml,2950.0,5.0,0.0,12/05/2024,22.1,17.72,20.49,1843.75
+87,Nepse Bull Rare Malt Whiskey 750ml,4850.0,5.0,0.0,12/05/2024,36.34,29.13,33.68,3031.25
+88,Kala Patthar Whiskey 750ml,2700.0,5.0,0.0,12/05/2024,20.23,16.22,18.75,1687.5
+89,Emperor Half  Whisky 375Ml,580.0,1.0,0.0,12/05/2024,4.35,3.48,4.03,362.5
+90,Password  Whisky Full 750Ml,1365.0,3.0,0.0,12/05/2024,10.23,8.2,9.48,853.12
+91,Johnnie Walker Gold Label  Whisky -750ML,10500.0,5.0,0.0,12/05/2024,78.66,63.06,72.92,6562.5
+92,Glenfiddich Whiskey 12yrs -1L,12740.0,5.0,0.0,12/05/2024,95.45,76.51,88.48,7962.5
+93,Teachers Highland Cream Whiskey 1ltr,7000.0,0.0,0.0,12/05/2024,52.44,42.04,48.61,4375.0
+94,Johnnie Walker Double Black  Whisky -1L,10500.0,5.0,0.0,12/05/2024,78.66,63.06,72.92,6562.5
+95,"Chivas Regal 12yrs Whisky, 1L -By Cheers Online",9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+96,Ginger Liqueur Bottega 25% Cl 50 - 500 ml,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+97,Snowman Gin - 750ML -By Cheers Online,2400.0,0.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+98,Vat 69 Blended Scotch whiskey 1ltr,6200.0,0.0,0.0,12/05/2024,46.45,37.24,43.06,3875.0
+99,Yokaichi Mugi  200Ml  Japanese Shochu,1520.0,0.0,0.0,12/05/2024,11.39,9.13,10.56,950.0
+100,Martini Extra Dry Liqueur - 1L -By Cheers Online,3250.0,0.0,0.0,12/05/2024,24.35,19.52,22.57,2031.25
+101,Khukuri Rum 750Ml,2050.0,0.0,0.0,12/05/2024,15.36,12.31,14.24,1281.25
+102,Courvoisier VSOP Fine Cognac - 500 ml -By Cheers Online,6520.0,0.0,0.0,12/05/2024,48.85,39.16,45.28,4075.0
+103,Maker's Mark Bourbon Whisky - 1L -By Cheers Online,10300.0,0.0,0.0,12/05/2024,77.17,61.86,71.53,6437.5
+104,Gordon's London Dry Gin - 375 ml -By Cheers Online,2800.0,0.0,0.0,12/05/2024,20.98,16.82,19.45,1750.0
+105,Tequila Sierra coffee 600ml,5000.0,0.0,0.0,12/05/2024,37.46,30.03,34.72,3125.0
+106,Yarchagumba Beverage Golden Sapphire 750ML,11000.0,0.0,0.0,12/05/2024,82.41,66.06,76.39,6875.0
+107,Campari Bitter Liqueur - 1ltr -By Cheers Online,8825.0,0.0,0.0,12/05/2024,66.11,53.0,61.29,5515.62
+108,The Glenlivet Single Malt Scotch Whiskey750ml,8200.0,0.0,0.0,12/05/2024,61.43,49.25,56.95,5125.0
+109,Jagermeister 1000ML,7850.0,0.0,0.0,12/05/2024,58.81,47.14,54.52,4906.25
+110,Gordon's London Dry Gin - 1 ltr -By Cheers Online,6700.0,0.0,0.0,12/05/2024,50.19,40.24,46.53,4187.5
+111,Latte Macchiato Liquore Bottega 15%Cl50 - 500 ml,4800.0,0.0,0.0,12/05/2024,35.96,28.83,33.34,3000.0
+112,Pimm's Original Liquor - 1L -By Cheers Online,7500.0,0.0,0.0,12/05/2024,56.19,45.04,52.09,4687.5
+113,Bottega Bacur Distilled Dry Gin 700ML -By Cheers Online,6950.0,0.0,0.0,12/05/2024,52.07,41.74,48.27,4343.75
+114,Khukuri Rum 750ml,2040.0,0.0,0.0,12/05/2024,15.28,12.25,14.17,1275.0
+115,Olmega Tequla Silver 750 Ml,5600.0,0.0,0.0,12/05/2024,41.95,33.63,38.89,3500.0
+116,Yokaichi Imo 200Ml Japanese Shochu,1520.0,0.0,0.0,12/05/2024,11.39,9.13,10.56,950.0
+117,Martell VSOP Brandy - 1L -By Cheers Online,15200.0,0.0,0.0,12/05/2024,113.87,91.29,105.56,9500.0
+118,The Famous Grouse Blended Scotch Whiskey1L,7500.0,0.0,0.0,12/05/2024,56.19,45.04,52.09,4687.5
+119,Dewazakura  180Ml,1210.0,0.0,0.0,12/05/2024,9.07,7.27,8.4,756.25
+120,Le Favori Triple Sec Liqueur - 700ML -By Cheers Online,5500.0,0.0,0.0,12/05/2024,41.2,33.03,38.2,3437.5
+121,Gilbey's 1857 Special Dry Gin - 1 ltr -By Cheers Online,6500.0,0.0,0.0,12/05/2024,48.7,39.04,45.14,4062.5
+122,"Pomogranete Liquore Bottega 20%
+Cl50 - 500 ml",4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+123,Red Label Blended Scotch Whisky 750ml,5350.0,0.0,0.0,12/05/2024,40.08,32.13,37.16,3343.75
+124,Hana Awaka Sparkling Wine -Japanese Sparkling Wine 250Ml,1210.0,0.0,0.0,12/05/2024,9.07,7.27,8.4,756.25
+125,Antiquity Blue 750ml,3050.0,0.0,0.0,12/05/2024,22.85,18.32,21.18,1906.25
+126,Rasberry Liquore 15% Cl50 - 500 ml,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+127,Courvoisier Napoleon Cognac - 750 ml -By Cheers Online,9760.0,0.0,0.0,12/05/2024,73.12,58.62,67.78,6100.0
+128,Penfold Raswon's Merlot(750ml),2500.0,0.0,0.0,12/05/2024,18.73,15.01,17.36,1562.5
+129,"Bulldog Gin, 750ml -By Cheers Online",6420.0,0.0,0.0,12/05/2024,48.1,38.56,44.59,4012.5
+130,Monkey 47 Schwarzwald Dry Gin 500ml,9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+131,Bandipur -750ml,5000.0,0.0,0.0,12/05/2024,37.46,30.03,34.72,3125.0
+132,8848 Vodka 750 ML,2100.0,0.0,0.0,12/05/2024,15.73,12.61,14.58,1312.5
+133,8848 Ray Vodka 750 Ml,2295.0,0.0,0.0,12/05/2024,17.19,13.78,15.94,1434.38
+134,Gordon's -1Ltr Imported Gin,6700.0,0.0,0.0,12/05/2024,50.19,40.24,46.53,4187.5
+135,Glenmorangie Lasanta Single Malt Scotch Whisky - 750 ml -By Cheers Online,11700.0,0.0,0.0,12/05/2024,87.65,70.27,81.26,7312.5
+136,Old Durbar Black Chimney - 750 ml,3650.0,0.0,0.0,12/05/2024,27.34,21.92,25.35,2281.25
+137,Jagermeister 500ML,4100.0,0.0,0.0,12/05/2024,30.72,24.62,28.47,2562.5
+138,Talisker 10 Years Whisky - 750ML -By Cheers Online,10500.0,0.0,0.0,12/05/2024,78.66,63.06,72.92,6562.5
+139,Liquiriza Liquore Bottega 25% Cl50 - 500 ml,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+140,Yokaichi ( Imo) 720Ml  Japanese Shochu,5320.0,0.0,0.0,12/05/2024,39.86,31.95,36.95,3325.0
+141,Old Durbar Two Continents 375ml,1350.0,0.0,0.0,12/05/2024,10.11,8.11,9.38,843.75
+142,Cointreau Orange Liqueur 1L,14680.0,0.0,0.0,12/05/2024,109.98,88.16,101.95,9175.0
+143,Elixir Amaro Erbe Alpine Bottega Bio 21% Cl50 - 500 ml,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+144,Himalayan Honey Hunter 15yrs Rum - 750ML -By Cheers Online,5125.0,0.0,0.0,12/05/2024,38.4,30.78,35.59,3203.12
+145,Khukri XXX Rum 180 ML,510.0,0.0,0.0,12/05/2024,3.82,3.06,3.54,318.75
+146,Jagermeister - 750ML German Liqueur,5875.0,0.0,0.0,12/05/2024,44.01,35.28,40.8,3671.88
+147,Old Monk XXX Rum 375ML,975.0,0.0,0.0,12/05/2024,7.3,5.86,6.77,609.38
+148,Old Durbar Two Continents 180ml,675.0,0.0,0.0,12/05/2024,5.06,4.05,4.69,421.88
+149,Vaccari Sambuca 700ML,8735.0,0.0,0.0,12/05/2024,65.44,52.46,60.66,5459.38
+150,Gianduia Liquore Bottega 17% Cl50 - 500 ml,4800.0,0.0,0.0,12/05/2024,35.96,28.83,33.34,3000.0
+151,Yokaichi (Imo) 1800Ml  Japanese Shochu,12410.0,0.0,0.0,12/05/2024,92.97,74.53,86.19,7756.25
+152,Bitter Accademia - 750 ml,8500.0,0.0,0.0,12/05/2024,63.68,51.05,59.03,5312.5
+153,Agavita Gold - 700ML Tequila,5200.0,0.0,0.0,12/05/2024,38.96,31.23,36.11,3250.0
+154,Fior Di Latte Liquore Bottega 15%Cl50 - 500 ml,5900.0,0.0,0.0,12/05/2024,44.2,35.43,40.98,3687.5
+155,Olmeca Silver 750ML,5795.0,5.0,0.0,12/05/2024,43.41,34.8,40.25,3621.88
+156,"Cardhu Malt 12yrs Whisky, 1L -By Cheers Online",11000.0,0.0,0.0,12/05/2024,82.41,66.06,76.39,6875.0
+157,Mustang Gold 375 Ml,580.0,0.0,0.0,12/05/2024,4.35,3.48,4.03,362.5
+158,Passport Old Reserve Blend Select Barrels 750,1140.0,0.0,0.0,12/05/2024,8.54,6.85,7.92,712.5
+159,Khukuri Spice Domestic Rum - 750ML -By Cheers Online,2400.0,0.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+160,Baileys Irish Cream 1L,7875.0,0.0,0.0,12/05/2024,59.0,47.29,54.69,4921.88
+161,Mustang Gold 750,1200.0,0.0,0.0,12/05/2024,8.99,7.21,8.33,750.0
+162,Signature Premier Grain Whisky 750,3050.0,0.0,0.0,12/05/2024,22.85,18.32,21.18,1906.25
+163,Beefeater London Dry Gin 750ML,5305.0,0.0,0.0,12/05/2024,39.74,31.86,36.84,3315.62
+164,Glen Grant 10yrs 750ML,8110.0,0.0,0.0,12/05/2024,60.76,48.71,56.32,5068.75
+165,Singleton Whiskey 12yrs -700ML,7500.0,0.0,0.0,12/05/2024,56.19,45.04,52.09,4687.5
+166,Khukuri Xxx Rum 750 Ml,1980.0,0.0,0.0,12/05/2024,14.83,11.89,13.75,1237.5
+167,The Glenlivet 12 Years Whisky - 1L -By Cheers Online,10750.0,0.0,0.0,12/05/2024,80.54,64.56,74.66,6718.75
+168,Jagermeister - 1000ML German Liqueur,7800.0,0.0,0.0,12/05/2024,58.44,46.84,54.17,4875.0
+169,8848 Vodka 750 Ml,2095.0,0.0,0.0,12/05/2024,15.7,12.58,14.55,1309.38
+170,Signature Premier Grain Whisky 375,1360.0,0.0,0.0,12/05/2024,10.19,8.17,9.45,850.0
+171,Snowman Gin 750ML,2400.0,4.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+172,Old Monk XXX Rum 750ML,1950.0,0.0,0.0,12/05/2024,14.61,11.71,13.54,1218.75
+173,Gill Marry Whisky 375Ml,560.0,0.0,0.0,12/05/2024,4.2,3.36,3.89,350.0
+174,Golden Oak 750ML,1160.0,0.0,0.0,12/05/2024,8.69,6.97,8.06,725.0
+175,Archers Peach Schnapps 1L,7000.0,0.0,0.0,12/05/2024,52.44,42.04,48.61,4375.0
+176,Yeti Vodka 375 ML,1140.0,0.0,0.0,12/05/2024,8.54,6.85,7.92,712.5
+177,The Himalayan Reserve Whisky 180 Ml,860.0,0.0,0.0,12/05/2024,6.44,5.16,5.97,537.5
+178,Yokaichi (Mugi) 1800Ml,12410.0,0.0,0.0,12/05/2024,92.97,74.53,86.19,7756.25
+179,Nomo Nomo-Sake 2 Litre,5315.0,0.0,0.0,12/05/2024,39.82,31.92,36.91,3321.88
+180,Old Durbar Black Chimney 375,1760.0,0.0,0.0,12/05/2024,13.19,10.57,12.22,1100.0
+181,"Caol Ila 12yrs Single Malt Whisky, 750ML -By Cheers Online",10200.0,0.0,0.0,12/05/2024,76.42,61.26,70.84,6375.0
+182,Talisker Storm Whisky - 700ML -By Cheers Online,10200.0,0.0,0.0,12/05/2024,76.42,61.26,70.84,6375.0
+183,Gill Marry Whisky 750Ml,1115.0,0.0,0.0,12/05/2024,8.35,6.7,7.74,696.88
+184,Le Favori Triple Sec 700ML,5490.0,0.0,0.0,12/05/2024,41.13,32.97,38.13,3431.25
+185,Baron Select Extra Premium Whisky 750Ml,1240.0,0.0,0.0,12/05/2024,9.29,7.45,8.61,775.0
+186,Golden Oak 750 Ml,1160.0,0.0,0.0,12/05/2024,8.69,6.97,8.06,725.0
+187,Exe Vodka 750Ml,1945.0,0.0,0.0,12/05/2024,14.57,11.68,13.51,1215.62
+188,Nepal Finest Khukuri Rum 750Ml,2000.0,0.0,0.0,12/05/2024,14.98,12.01,13.89,1250.0
+189,Signature Rare Aged Whisky 750ml,2790.0,0.0,0.0,12/05/2024,20.9,16.76,19.38,1743.75
+190,Blue Fin 750Ml,1200.0,0.0,0.0,12/05/2024,8.99,7.21,8.33,750.0
+191,8848 Vodka -375ML,1075.0,0.0,0.0,12/05/2024,8.05,6.46,7.47,671.88
+192,"Camino Real Gold Tequila, 750ml -By Cheers Online",6500.0,0.0,0.0,12/05/2024,48.7,39.04,45.14,4062.5
+193,Jameson Irish Permium whiskey1L,7400.0,0.0,0.0,12/05/2024,55.44,44.44,51.39,4625.0
+194,Grand Master Rum(750 ml),1800.0,0.0,0.0,12/05/2024,13.49,10.81,12.5,1125.0
+195,Khukuri Xxx Rum 375 Ml,990.0,0.0,0.0,12/05/2024,7.42,5.95,6.88,618.75
+196,Old Durbar Scotch Black Chimney Whisky 750Ml,3350.0,0.0,0.0,12/05/2024,25.1,20.12,23.27,2093.75
+197,Golden Oak Premium Blended Malt 750 ML,1160.0,0.0,0.0,12/05/2024,8.69,6.97,8.06,725.0
+198,Blue Riband Gin 375ML,880.0,0.0,0.0,12/05/2024,6.59,5.28,6.11,550.0
+199,VAT 69 Whiskey -375ML,2425.0,0.0,0.0,12/05/2024,18.17,14.56,16.84,1515.62
+200,Old Monk XXX Rum -750ML,1975.0,0.0,0.0,12/05/2024,14.8,11.86,13.72,1234.38
+201,Johnnie Walker Red Label Premium Whisky 750Ml,5250.0,0.0,0.0,12/05/2024,39.33,31.53,36.46,3281.25
+202,Kalapatthar Blended Reserve Whisky 750Ml,2600.0,0.0,0.0,12/05/2024,19.48,15.61,18.06,1625.0
+203,Smirnoff Vodka 375ML (Bottled in Nepal),1100.0,0.0,0.0,12/05/2024,8.24,6.61,7.64,687.5
+204,Minsk Luxury 750Ml,1200.0,0.0,0.0,12/05/2024,8.99,7.21,8.33,750.0
+205,Grand Master XXX Rum 375 ML,850.0,0.0,0.0,12/05/2024,6.37,5.1,5.9,531.25
+206,Signature Premier Grain Whisky - 750 ml -By Cheers Online,2775.0,0.0,0.0,12/05/2024,20.79,16.67,19.27,1734.38
+207,8848 Vodka 375 ML,1065.0,0.0,0.0,12/05/2024,7.98,6.4,7.4,665.62
+208,"Captain Morgan Black Rum, 1L -By Cheers Online",6600.0,0.0,0.0,12/05/2024,49.45,39.64,45.84,4125.0
+209,Glenmorangie Nectar D'Or Single Malt Scotch Whisky - 750 ml -By Cheers Online,15300.0,0.0,0.0,12/05/2024,114.62,91.89,106.26,9562.5
+210,Captain Morgan Black Imported Rum 1L,6600.0,0.0,0.0,12/05/2024,49.45,39.64,45.84,4125.0
+211,Nude Superior Vodka - 750ML -By Cheers Online,2170.0,0.0,0.0,12/05/2024,16.26,13.03,15.07,1356.25
+212,"Camino Real Silver Tequila, 750ml -By Cheers Online",6500.0,0.0,0.0,12/05/2024,48.7,39.04,45.14,4062.5
+213,Jamson Irish 750 Ml,5500.0,0.0,0.0,12/05/2024,41.2,33.03,38.2,3437.5
+214,Black Oak 750 Ml,1320.0,0.0,0.0,12/05/2024,9.89,7.93,9.17,825.0
+215,Highlander Pure White Vodka 750 ML,1150.0,0.0,0.0,12/05/2024,8.62,6.91,7.99,718.75
+216,Signature Premier Grain Whisky 180,675.0,0.0,0.0,12/05/2024,5.06,4.05,4.69,421.88
+217,Yorkshire Lebal 750 Ml,1040.0,0.0,0.0,12/05/2024,7.79,6.25,7.22,650.0
+218,Seto Bagh Vodka 180 ML,520.0,0.0,0.0,12/05/2024,3.9,3.12,3.61,325.0
+219,Khukri XXX Rum 180ml(PACK OF 3),1540.0,0.0,0.0,12/05/2024,11.54,9.25,10.7,962.5
+220,Nude Superior Vodka 750Ml,2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+221,Bacardi Black Original Premium Crafted Rum 750 ml,2625.0,0.0,0.0,12/05/2024,19.67,15.76,18.23,1640.62
+222,Finlandia Grapefruit - 750 ml -By Cheers Online,4650.0,0.0,0.0,12/05/2024,34.84,27.93,32.29,2906.25
+223,Yeti Vodka 375ML,1120.0,0.0,0.0,12/05/2024,8.39,6.73,7.78,700.0
+224,Tanqueray London Dry Gin 1L,8000.0,0.0,0.0,12/05/2024,59.93,48.05,55.56,5000.0
+225,Golden Oak Premium Blended Malt 375 ML,580.0,0.0,0.0,12/05/2024,4.35,3.48,4.03,362.5
+226,Seto Bagh Vodka 750 ML,2080.0,0.0,0.0,12/05/2024,15.58,12.49,14.45,1300.0
+227,Beefeater London Dry Gin 1L,6675.0,0.0,0.0,12/05/2024,50.01,40.09,46.36,4171.88
+228,Ballantine's 21yrs Whisky - 700ml -By Cheers Online,24000.0,0.0,0.0,12/05/2024,179.8,144.14,166.68,15000.0
+229,Old Durbar Black Chimni 375 Ml,1750.0,0.0,0.0,12/05/2024,13.11,10.51,12.15,1093.75
+230,Indri Single Malt Indian Whisky - 700ML -By Cheers Online,8900.0,0.0,0.0,12/05/2024,66.68,53.45,61.81,5562.5
+231,Khukri White Rum (750ml),2300.0,0.0,0.0,12/05/2024,17.23,13.81,15.97,1437.5
+232,Signature Red Preminium Grain Whisky 750Ml,2700.0,0.0,0.0,12/05/2024,20.23,16.22,18.75,1687.5
+233,Old Durbar Black Chimni 750 Ml,3500.0,0.0,0.0,12/05/2024,26.22,21.02,24.31,2187.5
+234,Yeti Vodka 180 ml,550.0,0.0,0.0,12/05/2024,4.12,3.3,3.82,343.75
+235,8848 Vodka 750ML,2145.0,0.0,0.0,12/05/2024,16.07,12.88,14.9,1340.62
+236,Baron Whisky 375Ml,665.0,0.0,0.0,12/05/2024,4.98,3.99,4.62,415.62
+237,Old Durbar 375 ML,1375.0,0.0,0.0,12/05/2024,10.3,8.26,9.55,859.38
+238,Johnnie Walker Red Label Premium Whisky - 375ML -By Cheers Online,2750.0,0.0,0.0,12/05/2024,20.6,16.52,19.1,1718.75
+239,Jack Daniel'S Jennessee Honey Whisky 1L,8900.0,0.0,0.0,12/05/2024,66.68,53.45,61.81,5562.5
+240,Sky Original Vodka 750Ml,2300.0,0.0,0.0,12/05/2024,17.23,13.81,15.97,1437.5
+241,Seagrams'S Royal Stage Deluxe Whisky 750Ml,2000.0,0.0,0.0,12/05/2024,14.98,12.01,13.89,1250.0
+242,Golden Oak 375 Ml,580.0,0.0,0.0,12/05/2024,4.35,3.48,4.03,362.5
+243,Black Oak 375 Ml,660.0,0.0,0.0,12/05/2024,4.94,3.96,4.58,412.5
+244,Blue Fin 35Ml,600.0,0.0,0.0,12/05/2024,4.5,3.6,4.17,375.0
+245,Blue Oak 750 Ml,1400.0,0.0,0.0,12/05/2024,10.49,8.41,9.72,875.0
+246,Signature Rare Aged Whiskey 375 ML,1240.0,0.0,0.0,12/05/2024,9.29,7.45,8.61,775.0
+247,Monkey Shoulder The Original 700Ml,7509.0,0.0,0.0,12/05/2024,56.26,45.1,52.15,4693.12
+248,Mustang Gold Whiskey 750ml,1160.0,0.0,0.0,12/05/2024,8.69,6.97,8.06,725.0
+249,8848 Vodka 750ml Made in Himalayan,2400.0,0.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+250,Kavalan Distillery Select No.1 (50ml),1200.0,0.0,0.0,12/05/2024,8.99,7.21,8.33,750.0
+251,Jim Beam Black Bourbon Whisky -1L,8160.0,0.0,0.0,12/05/2024,61.13,49.01,56.67,5100.0
+252,Baron Full Whisky 750Ml,1325.0,0.0,0.0,12/05/2024,9.93,7.96,9.2,828.12
+253,Old Durbar Reserve 375ML,1390.0,0.0,0.0,12/05/2024,10.41,8.35,9.65,868.75
+254,Mr Downells Full Whisky 750Ml,1300.0,0.0,0.0,12/05/2024,9.74,7.81,9.03,812.5
+255,8848 Vodka 375 Ml,1049.0,0.0,0.0,12/05/2024,7.86,6.3,7.29,655.62
+256,Finlandia Lime - 750 ml -By Cheers Online,4650.0,0.0,0.0,12/05/2024,34.84,27.93,32.29,2906.25
+257,Signature Premier Grain Whiskey 750 ML,2680.0,0.0,0.0,12/05/2024,20.08,16.1,18.61,1675.0
+258,Signature Rare Aged Whisky 750Ml,2500.0,0.0,0.0,12/05/2024,18.73,15.01,17.36,1562.5
+259,Smirnoff Vodka 750ML (Bottled in Nepal),2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+260,Teacher's Whisky -350ML,2275.0,0.0,0.0,12/05/2024,17.04,13.66,15.8,1421.88
+261,Signature Rare Aged Whiskey 180 ML,620.0,0.0,0.0,12/05/2024,4.64,3.72,4.31,387.5
+262,The Himalayan Reserve Whisky 750 Ml,3400.0,0.0,0.0,12/05/2024,25.47,20.42,23.61,2125.0
+263,Highlander Pure White Vodka 375 ML,575.0,0.0,0.0,12/05/2024,4.31,3.45,3.99,359.38
+264,8848 Vodka 180 Ml,525.0,0.0,0.0,12/05/2024,3.93,3.15,3.65,328.12
+265,Old Durbar Reserve -750mL,2775.0,0.0,0.0,12/05/2024,20.79,16.67,19.27,1734.38
+266,Ruslan Vodka -375ML,1100.0,0.0,0.0,12/05/2024,8.24,6.61,7.64,687.5
+267,"Absolut Peppar Vodka, 1ltr -By Cheers Online",6800.0,0.0,0.0,12/05/2024,50.94,40.84,47.23,4250.0
+268,Ruslan Vodka Triple Distilled 750ML,2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+269,Old Durbar Black Chimney 750 ML,3600.0,0.0,0.0,12/05/2024,26.97,21.62,25.0,2250.0
+270,Old Durbar 180 ML,680.0,0.0,0.0,12/05/2024,5.09,4.08,4.72,425.0
+271,Old Durbar 750 ML,2750.0,0.0,0.0,12/05/2024,20.6,16.52,19.1,1718.75
+272,Yeti Vodka 750 ML,2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+273,Johnnie Walker Red Label 750 ML,5700.0,0.0,0.0,12/05/2024,42.7,34.23,39.59,3562.5
+274,Signature Premier Grain Whiskey 180 ML,670.0,0.0,0.0,12/05/2024,5.02,4.02,4.65,418.75
+275,Old Durbar Black Chimni 180 Ml,875.0,0.0,0.0,12/05/2024,6.56,5.25,6.08,546.88
+276,Highlander Vodka 375 Ml,540.0,0.0,0.0,12/05/2024,4.05,3.24,3.75,337.5
+277,Limpiya Whisky 750Ml,1590.0,0.0,0.0,12/05/2024,11.91,9.55,11.04,993.75
+278,Johnnie Walker Red Label 200 ML,1600.0,0.0,0.0,12/05/2024,11.99,9.61,11.11,1000.0
+279,The Original Black Oak Preminium Blended Malt Whisky 750Ml,1400.0,0.0,0.0,12/05/2024,10.49,8.41,9.72,875.0
+280,Polska Vodka 750ML,2675.0,0.0,0.0,12/05/2024,20.04,16.07,18.58,1671.88
+281,Vat 69 750 Ml,4370.0,0.0,0.0,12/05/2024,32.74,26.24,30.35,2731.25
+282,Johnnie Walker Gold Label  Whisky-1L,13000.0,0.0,0.0,12/05/2024,97.39,78.07,90.28,8125.0
+283,Signature Rare Aged Whiskey 750 ML,2500.0,0.0,0.0,12/05/2024,18.73,15.01,17.36,1562.5
+284,J89 Select Cask Double Wood 12yrs 750ML,4500.0,0.0,0.0,12/05/2024,33.71,27.03,31.25,2812.5
+285,Ruslan Vodka Triple Distilled 750ML (2 Bottle),4100.0,0.0,0.0,12/05/2024,30.72,24.62,28.47,2562.5
+286,"Canadian Club Whisky, 1L -By Cheers Online",10300.0,0.0,0.0,12/05/2024,77.17,61.86,71.53,6437.5
+287,Old Durbar Black Chimney 180 ML,900.0,0.0,0.0,12/05/2024,6.74,5.41,6.25,562.5
+288,Royal Blue Whisky Half 375Ml,735.0,0.0,0.0,12/05/2024,5.51,4.41,5.1,459.38
+289,Johnnie Walker Red Label 375 ML,3000.0,0.0,0.0,12/05/2024,22.48,18.02,20.83,1875.0
+290,Bandipur Whiskey 750 Ml,4800.0,0.0,0.0,12/05/2024,35.96,28.83,33.34,3000.0
+291,Gurkhas and Guns Whisky -750ML,3080.0,0.0,0.0,12/05/2024,23.07,18.5,21.39,1925.0
+292,Old Durbar Black Chimney -180ML,915.0,0.0,0.0,12/05/2024,6.85,5.5,6.35,571.88
+293,Antiquity Blue 180ml(PACK OF 3),2290.0,0.0,0.0,12/05/2024,17.16,13.75,15.9,1431.25
+294,Malebu Rum 1000 Ml,7000.0,0.0,0.0,12/05/2024,52.44,42.04,48.61,4375.0
+295,Khukuri White Domestic Rum 750Ml,2400.0,0.0,0.0,12/05/2024,17.98,14.41,16.67,1500.0
+296,Mustang Gold Whiskey 375ml,580.0,0.0,0.0,12/05/2024,4.35,3.48,4.03,362.5
+297,Captain Morgan Spiced Gold Imported Rum -1L,6700.0,0.0,0.0,12/05/2024,50.19,40.24,46.53,4187.5
+298,Old Durbar Black Chimney Whisky 750Ml,3400.0,0.0,0.0,12/05/2024,25.47,20.42,23.61,2125.0
+299,Grant's Blended Scotch Whisky - 1 ltr -By Cheers Online,7310.0,0.0,0.0,12/05/2024,54.76,43.9,50.77,4568.75
+300,Ruslan Vodka Triple Distilled 750Ml,2100.0,0.0,0.0,12/05/2024,15.73,12.61,14.58,1312.5
+301,Johnnie Walker Black Label Premium Whisky 1L,8600.0,0.0,0.0,12/05/2024,64.43,51.65,59.73,5375.0
+302,Yeti Vodka 180 ML,570.0,0.0,0.0,12/05/2024,4.27,3.42,3.96,356.25
+303,Malibu White Rum With Coconut 1L,6500.0,0.0,0.0,12/05/2024,48.7,39.04,45.14,4062.5
+304,Old Durbar 1LTR,4635.0,0.0,0.0,12/05/2024,34.72,27.84,32.19,2896.88
+305,Ruslan Vodka 375 ML,1080.0,0.0,0.0,12/05/2024,8.09,6.49,7.5,675.0
+306,Signature Rare Aged Whisky -375ml,1245.0,0.0,0.0,12/05/2024,9.33,7.48,8.65,778.12
+307,Finlandia Mango - 750 ml -By Cheers Online,4650.0,0.0,0.0,12/05/2024,34.84,27.93,32.29,2906.25
+308,Baileys Original Irish Cream 70cl,7450.0,0.0,0.0,12/05/2024,55.81,44.74,51.74,4656.25
+309,Nude Superior Vodka 750 Ml,2010.0,0.0,0.0,12/05/2024,15.06,12.07,13.96,1256.25
+310,Signature Premier Grain -750ML,2775.0,0.0,0.0,12/05/2024,20.79,16.67,19.27,1734.38
+311,Chivas Regal 12 Yrs 750 Ml,6850.0,0.0,0.0,12/05/2024,51.32,41.14,47.57,4281.25
+312,The Himalayan Reserve Whisky 750Ml,3300.0,0.0,0.0,12/05/2024,24.72,19.82,22.92,2062.5
+313,Vat 69 1000 Ml,5800.0,0.0,0.0,12/05/2024,43.45,34.83,40.28,3625.0
+314,Antiquity Blue 375ml,1525.0,0.0,0.0,12/05/2024,11.42,9.16,10.59,953.12
+315,J89 Single Barrel Malt 750 ML,2900.0,0.0,0.0,12/05/2024,21.73,17.42,20.14,1812.5
+316,The Balvenie Doublewood 17 Years Whisky - 700ML -By Cheers Online,24320.0,0.0,0.0,12/05/2024,182.2,146.06,168.9,15200.0
+317,Antiquity Blue Ultra Premium Whiskey 750 ML,3000.0,0.0,0.0,12/05/2024,22.48,18.02,20.83,1875.0
+318,"Camus XO Cognac, 1L -By Cheers Online",41940.0,0.0,0.0,12/05/2024,314.2,251.88,291.27,26212.5
+319,Yeti Vodka 750ML,2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+320,Kaluwa 1 Ltr,7250.0,0.0,0.0,12/05/2024,54.32,43.54,50.35,4531.25
+321,Finlandia Cranberry  - 750 ml -By Cheers Online,4650.0,0.0,0.0,12/05/2024,34.84,27.93,32.29,2906.25
+322,Ruslan Vodka -750ML,2200.0,0.0,0.0,12/05/2024,16.48,13.21,15.28,1375.0
+323,Johnne Walker Black Label 1000 Ml,9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+324,Signature Premier Grain Whiskey 375 ML,1340.0,0.0,0.0,12/05/2024,10.04,8.05,9.31,837.5
+325,Johnne Walker Black Label 375 Ml,3420.0,0.0,0.0,12/05/2024,25.62,20.54,23.75,2137.5
+326,Old Monk Xxx Rum Head Shape  750Ml,2500.0,0.0,0.0,12/05/2024,18.73,15.01,17.36,1562.5
+327,Gurkhas & Guns Finest Blended Whiskey 750ml,3090.0,0.0,0.0,12/05/2024,23.15,18.56,21.46,1931.25
+328,Absolut Vodka -1Ltr,5500.0,0.0,0.0,12/05/2024,41.2,33.03,38.2,3437.5
+329,Jemson Irish 1000 Ml,7400.0,0.0,0.0,12/05/2024,55.44,44.44,51.39,4625.0
+330,Johnnie Walker Red Label Premium Whisky 1L,6900.0,0.0,0.0,12/05/2024,51.69,41.44,47.92,4312.5
+331,Master Selection(750 ml),3350.0,0.0,0.0,12/05/2024,25.1,20.12,23.27,2093.75
+332,Old Durbar Black Chimney -375ML,1825.0,0.0,0.0,12/05/2024,13.67,10.96,12.67,1140.62
+333,Ballys Original 1000ml,7200.0,0.0,0.0,12/05/2024,53.94,43.24,50.0,4500.0
+334,Old Durbar 12 Years (750 ml),6500.0,0.0,0.0,12/05/2024,48.7,39.04,45.14,4062.5
+335,Kavalan Classic Single Malt Whiskey Miniature (50ml),1300.0,0.0,0.0,12/05/2024,9.74,7.81,9.03,812.5
+336,8848 Vodka(PACK OF 3) -180ML,1610.0,0.0,0.0,12/05/2024,12.06,9.67,11.18,1006.25
+337,Captain Morgan 1000Ml,8610.0,0.0,0.0,12/05/2024,64.5,51.71,59.8,5381.25
+338,Chivas Regal 200 ml,2170.0,0.0,0.0,12/05/2024,16.26,13.03,15.07,1356.25
+339,Johnnie Walker Red Label  Whisky -1L,6990.0,0.0,0.0,12/05/2024,52.37,41.98,48.55,4368.75
+340,Ballantines Finest 1Ltr,6950.0,0.0,0.0,12/05/2024,52.07,41.74,48.27,4343.75
+341,Grey Goose Vodka - 1 ltr -By Cheers Online,12500.0,0.0,0.0,12/05/2024,93.65,75.07,86.81,7812.5
+342,Chivas Regal 12Yrs Whisky 1L,9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+343,Old Durbar Black Chimney - 750ML Domestic Whisky,3650.0,0.0,0.0,12/05/2024,27.34,21.92,25.35,2281.25
+344,Johnnie Walker Red Label 500 ML,3800.0,0.0,0.0,12/05/2024,28.47,22.82,26.39,2375.0
+345,The himalayan Reserve 750ML,3400.0,0.0,0.0,12/05/2024,25.47,20.42,23.61,2125.0
+346,Old Durbar 15yrs Blended Malt Scotch Whisky - 750ML -By Cheers Online,15000.0,0.0,0.0,12/05/2024,112.38,90.08,104.17,9375.0
+347,Chivas Regal 375ml,3600.0,0.0,0.0,12/05/2024,26.97,21.62,25.0,2250.0
+348,Johnnie Walker Black Label Premium Whisky 750Ml,6900.0,0.0,0.0,12/05/2024,51.69,41.44,47.92,4312.5
+349,Johnee Walker Double Black 750 Ml,8500.0,0.0,0.0,12/05/2024,63.68,51.05,59.03,5312.5
+350,Jack Daniel's - 1L American Whisky,8160.0,0.0,0.0,12/05/2024,61.13,49.01,56.67,5100.0
+351,VAT 69 Blended Scotch Whisky - 750ML -By Cheers Online,4750.0,4.7,0.0,12/05/2024,35.59,28.53,32.99,2968.75
+352,Johnnie Walker Red Label 1000 ML,8000.0,0.0,0.0,12/05/2024,59.93,48.05,55.56,5000.0
+353,Johnnie Walker Gold label Reserve Whiskey 750ml,10400.0,0.0,0.0,12/05/2024,77.91,62.46,72.23,6500.0
+354,Johnne Walker Black Label 500 Ml,4400.0,0.0,0.0,12/05/2024,32.96,26.42,30.56,2750.0
+355,Dewar's 15yrs The Monarch Blended Scotch Whisky - 1ltr -By Cheers Online,13000.0,0.0,0.0,12/05/2024,97.39,78.07,90.28,8125.0
+356,White Horse Blended Scotch Whisky - 750ML -By Cheers Online,4525.0,0.0,0.0,12/05/2024,33.9,27.18,31.43,2828.12
+357,Jack Daniels Jennessee Whiskey 1Ltr,7800.0,0.0,0.0,12/05/2024,58.44,46.84,54.17,4875.0
+358,Dimple Deluxe 15 Years Old Blended Scotch Whisky - 1 ltr -By Cheers Online,10600.0,0.0,0.0,12/05/2024,79.41,63.66,73.62,6625.0
+359,Ruslan Vodka 180 ML,550.0,0.0,0.0,12/05/2024,4.12,3.3,3.82,343.75
+360,Dewar's 12 Year Old The Ancestor Blended Scotch Whisky - 1 ltr -By Cheers Online,8800.0,2.0,0.0,12/05/2024,65.93,52.85,61.12,5500.0
+361,Johnnie Walker Red Label -750ML,5350.0,0.0,0.0,12/05/2024,40.08,32.13,37.16,3343.75
+362,Johnnie Walker Black Label  Whisky -750ML,6900.0,0.0,0.0,12/05/2024,51.69,41.44,47.92,4312.5
+363,Johnee Walker Double Black 1000 Ml,9700.0,0.0,0.0,12/05/2024,72.67,58.25,67.37,6062.5
+364,Yarsha Gumba 750 Ml,11000.0,0.0,0.0,12/05/2024,82.41,66.06,76.39,6875.0
+365,Founder Reserves 1000ml,9800.0,0.0,0.0,12/05/2024,73.42,58.86,68.06,6125.0
+366,VAT 69 Blended Scotch Whisky - 375ML -By Cheers Online,2425.0,0.0,0.0,12/05/2024,18.17,14.56,16.84,1515.62
+367,Bottega Alexander Vodka,6950.0,0.0,0.0,12/05/2024,52.07,41.74,48.27,4343.75
+368,Kavalan Concertmaster Sherry Finish Single Malt Whiskey (700ml),18000.0,0.0,0.0,12/05/2024,134.85,108.1,125.01,11250.0
+369,Ballantine's Finest 1L,6950.0,0.0,0.0,12/05/2024,52.07,41.74,48.27,4343.75
+370,Gold Label Reserve -750 ml,10500.0,0.0,0.0,12/05/2024,78.66,63.06,72.92,6562.5
+371,Absolut Vodka 1000 Ml,6200.0,0.0,0.0,12/05/2024,46.45,37.24,43.06,3875.0
+372,Jack Daniel's 750ML,6245.0,0.0,0.0,12/05/2024,46.79,37.51,43.37,3903.12
+373,Jameson Irish 750ml,5660.0,0.0,0.0,12/05/2024,42.4,33.99,39.31,3537.5
+374,Johnnie Walker Blue Label 200ml,9200.0,0.0,0.0,12/05/2024,68.92,55.25,63.89,5750.0
+375,Jack Daniels 1000 Ml,7940.0,0.0,0.0,12/05/2024,59.48,47.68,55.14,4962.5
+376,Kavalan Concertmaster,18000.0,0.0,0.0,12/05/2024,134.85,108.1,125.01,11250.0
+377,Ciroc Vodka - 750 ml -By Cheers Online,7900.0,0.0,0.0,12/05/2024,59.18,47.44,54.86,4937.5
+378,Skyy Original Vodka - 1L -By Cheers Online,6995.0,0.0,0.0,12/05/2024,52.4,42.01,48.58,4371.88
+379,The Glenlivet 12yrs Double Oak  Whisky -1L,12750.0,0.0,0.0,12/05/2024,95.52,76.57,88.55,7968.75
+380,Gold Label Reserve  1 Ltr,13000.0,0.0,0.0,12/05/2024,97.39,78.07,90.28,8125.0
+381,Johnnie Walker Black Label  Whisky -1L,9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+382,J&B Rare Scotch Whisky - 1 ltr -By Cheers Online,7000.0,0.0,0.0,12/05/2024,52.44,42.04,48.61,4375.0
+383,Glenfiddich 18yrs 700ML,18580.0,0.0,0.0,12/05/2024,139.2,111.58,129.04,11612.5
+384,Chivas Regal 25 Year Old Blended Scotch Whisky - 700 ml -By Cheers Online,51000.0,0.0,0.0,12/05/2024,382.08,306.29,354.19,31875.0
+385,Chivas Regal 12 Yrs 1000 Ml,9000.0,0.0,0.0,12/05/2024,67.43,54.05,62.5,5625.0
+386,Absolut Vodka 750ml,5700.0,0.0,0.0,12/05/2024,42.7,34.23,39.59,3562.5
+387,Kavalan Ex-Bourbon Oak Single Malt Whiskey (700ml),23000.0,0.0,0.0,12/05/2024,172.31,138.13,159.73,14375.0
+388,Kavalan Podium Single Malt Whisky,25000.0,0.0,0.0,12/05/2024,187.29,150.14,173.62,15625.0
+389,Kavalan Solist ex-Bourbon Single Cask (700ml),26000.0,0.0,0.0,12/05/2024,194.79,156.15,180.57,16250.0
+390,The Glenlivert 15 Yrs 1000 Ml,15850.0,0.0,0.0,12/05/2024,118.74,95.19,110.08,9906.25
+391,Ruslan Vodka Triple Distilled 750ML (5 Bottle),10500.0,0.0,0.0,12/05/2024,78.66,63.06,72.92,6562.5
+392,VAT 69 Blended Scotch Whisky - 1L -By Cheers Online,6290.0,5.0,0.0,12/05/2024,47.12,37.78,43.68,3931.25
+393,Kavalan Oloroso Sherry Oak Single Malt Whiskey (700ml),27000.0,0.0,0.0,12/05/2024,202.28,162.15,187.51,16875.0
+394,Kavalan Solist Port Single Cask Strength (700ml),28000.0,0.0,0.0,12/05/2024,209.77,168.16,194.46,17500.0
+395,Ciroc Regular Vodka -750ML,7900.0,0.0,0.0,12/05/2024,59.18,47.44,54.86,4937.5
+396,Kavalan Solist Vinho Barrique Single Cask,33000.0,0.0,0.0,12/05/2024,247.23,198.19,229.18,20625.0
+397,Glenfiddich 15yrs 1L,18500.0,0.0,0.0,12/05/2024,138.6,111.1,128.48,11562.5
+398,VAT 69 Whisky 1L,6290.0,0.0,0.0,12/05/2024,47.12,37.78,43.68,3931.25
+399,Royal Salute 21 Yo 700 Ml,32000.0,0.0,0.0,12/05/2024,239.74,192.18,222.24,20000.0
+400,Chivas Regal 12 Year Old Blended Scotch Whisky - 750 ml -By Cheers Online,6850.0,0.0,0.0,12/05/2024,51.32,41.14,47.57,4281.25
+401,Smirnoff Red Regular Vodka -1L,5950.0,0.0,0.0,12/05/2024,44.58,35.73,41.32,3718.75
+402,Chivas Regal Gold Signature Aged 18 years Scotch Whiskey 1Litre,16000.0,0.0,0.0,12/05/2024,119.87,96.09,111.12,10000.0
+403,8848 Vodka 750ml Made in Himalayan (10 Bottle),24000.0,0.0,0.0,12/05/2024,179.8,144.14,166.68,15000.0
+404,Yeti vodka 375 ml,1100.0,0.0,0.0,12/05/2024,8.24,6.61,7.64,687.5
+405,Old Durbar Two Continents 750,2700.0,5.0,0.0,12/05/2024,20.23,16.22,18.75,1687.5
+406,Jameson Irish - 1L  Premium Whisky,7500.0,5.0,0.0,12/05/2024,56.19,45.04,52.09,4687.5
+407,Black Label 12 Yrs 50 ml,650.0,4.0,0.0,12/05/2024,4.87,3.9,4.51,406.25
+408,Blue Diamond London Extra Day 750 ML,1120.0,0.0,0.0,12/05/2024,8.39,6.73,7.78,700.0
+409,Blue Diamond London Extra Day 375 ML,560.0,0.0,0.0,12/05/2024,4.2,3.36,3.89,350.0
+410,Iconic Russian 750Ml,1365.0,0.0,0.0,12/05/2024,10.23,8.2,9.48,853.12
+411,Gurkhas and Gun Finest Blended Whisky,2980.0,0.0,0.0,12/05/2024,22.33,17.9,20.7,1862.5
+412,Excellence Vodka 750ml,1665.0,0.0,0.0,12/05/2024,12.47,10.0,11.56,1040.62
+413,365 Days Vodka 750 Ml,1000.0,0.0,0.0,12/05/2024,7.49,6.01,6.94,625.0
+414,365 Days Vodka 375 Ml,500.0,0.0,0.0,12/05/2024,3.75,3.0,3.47,312.5
+415,Jack Daniels Whiskey JD 500ml,4180.0,0.0,0.0,12/05/2024,31.32,25.1,29.03,2612.5
+416,Signature Rare 750 Ml,2320.0,0.0,0.0,12/05/2024,17.38,13.93,16.11,1450.0
+417,Signature Rare 375 Ml,1160.0,0.0,0.0,12/05/2024,8.69,6.97,8.06,725.0
+418,Old Durbar 1000 ML,3400.0,0.0,0.0,12/05/2024,25.47,20.42,23.61,2125.0
+419,Chivas Regal Extra 750 Ml,6924.0,0.0,0.0,12/05/2024,51.87,41.58,48.09,4327.5
+420,Johnnie Walker Blue Label 1L,38000.0,0.0,0.0,12/05/2024,284.69,228.21,263.91,23750.0
