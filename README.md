@@ -1,6 +1,6 @@
 # ETL (Extract Transform Load)
 
-This script extracts the data from another repositiory that scrapes the liquors from Daraz, and performs ETL pipeline, and stores it in PostgreSQL and CSV file.
+This script extracts the data from another repositiory that scrapes the liquors from Daraz, and performs ETL pipeline, and stores it in PostgreSQL and CSV file. As the scraping action runs every Sunday at 00:00, this ETL script is automated to run every Monday of the week to update the data automatically for the better insight of the latest trending data.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,6 +11,7 @@ This script extracts the data from another repositiory that scrapes the liquors 
 6. [Usage](#usage)
 7. [Data Schema](#data-schema)
 8. [Workflow](#workflow)
+9. [Github Action](#github-actions-workflow)
 9. [Future Work](#future-work)
 10. [Conclusion](#conclusion)
 11. [Contribution](#contribution)
@@ -184,6 +185,23 @@ Finally after the transformation, the data is loaded in PostgreSQL and CSV file 
 ![Transformed Data](images/transformed_data2.png?raw=true "Title")
 
 ![Transformed Data](images/transformed_csv.png?raw=true "Title")
+
+## GitHub Actions Workflow
+
+This repository uses a GitHub Actions workflow to run a ETL Job every once a week. Here's a brief explanation of what each part does for the scheduled ETL we have another action for dispached action as well but here is the description for scheduled ETL:
+
+- `name: Scheduled ETL`: This is the name of the workflow.
+- `on: schedule: - cron: '0 0 * * 1'`: This sets the workflow to run on a schedule, specifically at 00:00 on Monday.
+- `on: workflow_dispatch:`: This allows you to manually trigger the workflow from GitHub's UI.
+- `jobs: build:`: This starts the definition of a job called `build`.
+- `runs-on: ubuntu-latest`: This sets the job to run on the latest version of Ubuntu.
+- `steps:`: This begins the list of steps that the job will run.
+- `- uses: actions/checkout@v2`: This step checks out your repository so the workflow can access it.
+- `- name: Set up Python`: This step sets up Python using the `actions/setup-python@v2` action.
+- `- name: Install dependencies`: This step installs the dependencies listed in your `requirements.txt` file.
+- `- name: Run ETL`: This step runs the main.py to start ETL.
+- `- name: Setup Git`: This step sets up Git with the email and username of "GitHub Action".
+- `- name: Push changes`: This step commits any changes made during the run of the workflow and pushes them to the repository.
 
 ## Future Work
 - Currently this ETL pipeline extracts data from a daraz e-commerce website only. We can expand this to include more sources, which would provide a more comprehensive view of the market.
