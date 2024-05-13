@@ -200,6 +200,7 @@ In conclusion, this ETL project has successfully demonstrated the power of data 
 
 The project’s future work, which includes data source expansion, data quality checks, error handling, performance optimisation, data analysis, and visualisation, promises to elevate the project to new heights. The implementation of automated testing, data governance, data versioning, pipeline monitoring, user interface improvements, and thorough documentation will undoubtedly contribute to the project’s robustness and user-friendliness.
 
+In the development and operation of our ETL pipeline, we are committed to adhering strictly to ethical guidelines and respecting data privacy. We understand the importance of confidentiality and the protection of personal information in this digital age. Therefore, we ensure that all data scraped from websites and processed within our systems are handled with utmost care.
 ## Contribution
 
 Contributions to this project are welcome. Please open an issue to discuss your proposed changes before making a pull request.
