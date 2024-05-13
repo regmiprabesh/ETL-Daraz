@@ -1,22 +1,10 @@
-2024-05-13 06:01:37.456160: Initiating ETL process
-2024-05-13 06:01:37.456309: Data Extraction Started
-2024-05-13 06:01:38.238725: Data Extraction Completed
-2024-05-13 06:01:38.240675: Data Transformation Started.
-2024-05-13 06:01:38.253192: Data Transformation Completed.
-2024-05-13 06:01:38.254012: Validation Started
-2024-05-13 06:01:38.254647: Validation Completed
-2024-05-13 06:01:38.256922: Data Stored To CSV File
-2024-05-13 06:01:38.330133: Data Fetch Complete
-2024-05-13 06:01:38.330313: Data Stored To PostgreSQL database
-2024-05-13 06:01:38.330362: ETL Completed
-2024-05-13 06:03:46.191427: Initiating ETL process
-2024-05-13 06:03:46.191728: Data Extraction Started
-2024-05-13 06:03:47.119346: Data Extraction Completed
-2024-05-13 06:03:47.121309: Data Transformation Started.
-2024-05-13 06:03:47.137249: Data Transformation Completed.
-2024-05-13 06:03:47.138004: Validation Started
-2024-05-13 06:03:47.138700: Validation Completed
-2024-05-13 06:03:47.141710: Data Stored To CSV File
-2024-05-13 06:03:47.261179: Data Fetch Complete
-2024-05-13 06:03:47.261358: Data Stored To PostgreSQL database
-2024-05-13 06:03:47.261409: ETL Completed
+2024-05-14 02:05:57.392992: Initiating ETL process
+2024-05-14 02:05:57.393173: Data Extraction Started
+2024-05-14 02:05:57.912416: Data Extraction Completed
+2024-05-14 02:05:57.914440: Data Transformation Started.
+2024-05-14 02:05:57.921628: Data Transformation Completed.
+2024-05-14 02:05:57.922398: Validation Started
+2024-05-14 02:05:57.922660: Validation Completed
+2024-05-14 02:05:57.924608: Data Stored To CSV File
+2024-05-14 02:05:58.013819: Data Stored To PostgreSQL database
+2024-05-14 02:05:58.013880: ETL Completed

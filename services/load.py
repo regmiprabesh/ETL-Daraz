@@ -19,7 +19,8 @@ def load_to_db(df, conn):
     into the table"""
     for _, row in df.iterrows():
         cur.execute(products_table_insert, tuple(row))
-    run_query(products_table_load,conn)
+    """Uncomment to get the data and print in terminal from PostgreSQL"""
+    # run_query(products_table_load,conn) 
     log_progress('Data Stored To PostgreSQL database')
 
 #Get Data

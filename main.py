@@ -22,17 +22,17 @@ def main():
     if validation(df):
         #Load Data To CSV
         load_to_csv(df, output_csv_path)
-        #Load env variables
-        load_dotenv()
-        #Connect and load data to PostgreSQL
-        conn = psycopg2.connect(
-            dbname=os.getenv("DB_NAME"),
-            user=os.getenv("DB_USER"),
-            password=os.getenv("DB_PASSWORD"),
-            host=os.getenv("DB_HOST"),
-            port=os.getenv("DB_PORT"),
-        )
-        load_to_db(df,conn)
+        #Load to PostgreSQL if environment is not github and also check if .env file is present
+        if load_dotenv() and os.getenv("Environment") != "Github":
+            #Connect and load data to PostgreSQL
+            conn = psycopg2.connect(
+                dbname=os.getenv("DB_NAME"),
+                user=os.getenv("DB_USER"),
+                password=os.getenv("DB_PASSWORD"),
+                host=os.getenv("DB_HOST"),
+                port=os.getenv("DB_PORT"),
+            )
+            load_to_db(df,conn)
         log_progress('ETL Completed')
 if __name__ == "__main__":
     main()
