@@ -8,3 +8,12 @@
 2024-05-14 02:05:57.924608: Data Stored To CSV File
 2024-05-14 02:05:58.013819: Data Stored To PostgreSQL database
 2024-05-14 02:05:58.013880: ETL Completed
+2024-05-13 20:37:26.765956: Initiating ETL process
+2024-05-13 20:37:26.766020: Data Extraction Started
+2024-05-13 20:37:26.904407: Data Extraction Completed
+2024-05-13 20:37:26.909197: Data Transformation Started.
+2024-05-13 20:37:26.920784: Data Transformation Completed.
+2024-05-13 20:37:26.922330: Validation Started
+2024-05-13 20:37:26.922830: Validation Completed
+2024-05-13 20:37:26.925885: Data Stored To CSV File
+2024-05-13 20:37:26.926087: ETL Completed
