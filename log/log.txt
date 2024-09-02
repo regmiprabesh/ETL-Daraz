@@ -161,3 +161,12 @@
 2024-08-26 01:22:15.484542: Validation Completed
 2024-08-26 01:22:15.489561: Data Stored To CSV File
 2024-08-26 01:22:15.489758: ETL Completed
+2024-09-02 01:25:59.321687: Initiating ETL process
+2024-09-02 01:25:59.321736: Data Extraction Started
+2024-09-02 01:25:59.789710: Data Extraction Completed
+2024-09-02 01:25:59.794511: Data Transformation Started.
+2024-09-02 01:25:59.808772: Data Transformation Completed.
+2024-09-02 01:25:59.810419: Validation Started
+2024-09-02 01:25:59.810955: Validation Completed
+2024-09-02 01:25:59.815994: Data Stored To CSV File
+2024-09-02 01:25:59.816188: ETL Completed
